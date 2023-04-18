@@ -1,39 +1,39 @@
 [Indicators]
 src "Altitude, m"
-dst "高度, m"
+dst "Altitude, m"
 
 src "Altitude, ft"
-dst "高度, ft"
+dst "Altitude, ft"
 
 src "Radar altitude, m"
-dst "レーダー高度, m"
+dst "Radar altitude, m"
 
 src "Radar altitude, ft"
-dst "レーダー高度, ft"
+dst "Radar altitude, ft"
 
 src "Compass"
-dst "方位"
+dst "Compass"
 
 src "IAS, km/h"
-dst "指示対気速度(IAS), km/h"
+dst "IAS, km/h"
 
 src "IAS, mph"
-dst "指示対気速度(IAS), mph"
+dst "IAS, mph"
 
 src "IAS, knots"
-dst "指示対気速度(IAS), knots"
+dst "IAS, knots"
 
 src "TAS, km/h"
-dst "真対気速度(TAS), km/h"
+dst "TAS, km/h"
 
 src "TAS, mph"
-dst "真対気速度(TAS), mph"
+dst "TAS, mph"
 
 src "TAS, knots"
-dst "真対気速度(TAS), knots"
+dst "TAS, knots"
 
 src "Mach number"
-dst "マッハ"
+dst "Mach number"
 
 src "AoA, deg"
 dst "AoA, deg"
@@ -102,16 +102,16 @@ src "Drag, lbf"
 dst "Drag, lbf"
 
 src "Total mass, kg"
-dst "総重量, kg"
+dst "Total mass, kg"
 
 src "Total mass, lb"
-dst "総重量, lb"
+dst "Total mass, lb"
 
 src "No fuel mass, kg"
-dst "空虚重量, kg"
+dst "No fuel mass, kg"
 
 src "No fuel mass, lb"
-dst "空虚重量, lb"
+dst "No fuel mass, lb"
 
 src "Thrust to Weight"
 dst "Thrust to Weight"
@@ -132,13 +132,13 @@ src "Critical AoA, %"
 dst "Critical AoA, %"
 
 src "Throttle, %"
-dst "スロットル, %"
+dst "Throttle, %"
 
 src "Flaps, %"
-dst "フラップ, %"
+dst "Flaps, %"
 
 src "Gear, %"
-dst "着陸装置, %"
+dst "Gear, %"
 
 src "Wing sweep, %"
 dst "Wing sweep, %"
@@ -657,16 +657,16 @@ dst "閉じる"
 
 [Main Window]
 src "Add"
-dst "Add"
+dst "項目を追加"
 
 src "Delete"
-dst "Delete"
+dst "項目を削除"
 
 src "Up"
-dst "Up"
+dst "上へ"
 
 src "Down"
-dst "Down"
+dst "下へ"
 
 src "Indicator"
 dst "Indicator"
@@ -716,37 +716,37 @@ dst "In hangar"
 
 [Main Window Hints]
 src "Adds indicator to the list."
-dst "Adds indicator to the list."
+dst "項目をリストに追加する"
 
 src "Deletes selected indicator from the list."
-dst "Deletes selected indicator from the list."
+dst "選択した項目をリストから削除する"
 
 src "Moves selected indicator up in the list."
-dst "Moves selected indicator up in the list."
+dst "選択した項目を一つ上へ移動する"
 
 src "Moves selected indicator down in the list."
-dst "Moves selected indicator down in the list."
+dst "選択した項目を一つ下へ移動する"
 
 src "<Double-click> - opens Group/Indicator settings."
-dst "<Double-click> - opens Group/Indicator settings."
+dst "<ダブルクリック> - グループ/項目の設定を開く."
 
 src "Closes software."
-dst "Closes software."
+dst "WTRTIを閉じる"
 
 src "Minimizes software."
-dst "Minimizes software."
+dst "WTRTIを最小化"
 
 src "Displays advanced properties."
 dst "Displays advanced properties."
 
 src "Displays game chat."
-dst "Displays game chat."
+dst "ゲームチャットを開く"
 
 src "Displays battle log."
-dst "Displays battle log."
+dst "戦闘ログを開く"
 
 src "Displays additional vehicle information."
-dst "Displays additional vehicle information."
+dst "詳細な機体情報ウィンドウを開く"
 
 src "Displays advanced VR Settings"
 dst "Displays advanced VR Settings"
@@ -767,13 +767,13 @@ src "The current profile has been changed. Do you want save it?"
 dst "The current profile has been changed. Do you want save it?"
 
 src "Resets to default settings."
-dst "Resets to default settings."
+dst "設定をリセットする"
 
 src "All current settings will be deleted. Are you sure?"
-dst "All current settings will be deleted. Are you sure?"
+dst "現在の設定が全て削除されます。よろしいですか？"
 
 src "The selected Indicator will be deleted. Are you sure?"
-dst "The selected Indicator will be deleted. Are you sure?"
+dst "選択した項目が削除されます。よろしいですか？"
 
 
 [Update Period]
@@ -804,13 +804,13 @@ src "Indicator"
 dst "Indicator"
 
 src "Units"
-dst "Units"
+dst "単位"
 
 src "SI"
-dst "SI"
+dst "国際単位系(SI)"
 
 src "US"
-dst "US"
+dst "ヤード・ポンド法(US)"
 
 src "All"
 dst "All"
@@ -851,18 +851,18 @@ dst "Edit"
 
 [Add Indicator Window Hints]
 src "- <Double-click> - add the indicator to the main list.\n- <RMB> - extra menu."
-dst "- <Double-click> - add the indicator to the main list.\n- <RMB> - extra menu."
+dst "- <ダブルクリック> - 項目をリストに追加します\n- <RMB> - サブメニュー."
 
 src "ERROR: Indicator with kind of Name already exist."
-dst "ERROR: Indicator with kind of Name already exist."
+dst "エラー: 同じ項目名が既に存在します"
 
 src "The selected Indicator will be deleted. Are you sure?"
-dst "The selected Indicator will be deleted. Are you sure?"
+dst "選択した項目が削除されます。よろしいですか？"
 
 
 [State Window]
 src "Save"
-dst "Save"
+dst "保存"
 
 
 [State Window Hints]
@@ -912,16 +912,16 @@ dst "Lua-script, for custom processing of indicator values.\nSample file is loca
 
 [Settings Window]
 src "Update interval (ms)"
-dst "Update interval (ms)"
+dst "画面更新頻度(ms)"
 
 src "General"
 dst "全般"
 
 src "Network"
-dst "Network"
+dst "ネットワーク設定"
 
 src "Theme"
-dst "Theme"
+dst "テーマ"
 
 src "Multi-value layout"
 dst "Multi-value layout"
@@ -990,10 +990,10 @@ src "Scale"
 dst "Scale"
 
 src "Show OSD"
-dst "Show OSD"
+dst "OSDを表示する"
 
 src "Show units in OSD"
-dst "Show units in OSD"
+dst "OSDに単位を表示する"
 
 src "X"
 dst "X"
@@ -1017,22 +1017,22 @@ src "Apply"
 dst "適用"
 
 src "Start minimized"
-dst "Start minimized"
+dst "最小化して起動"
 
 src "Minimize to notification area"
-dst "Minimize to notification area"
+dst "最小化した時にタスクトレイに格納する"
 
 src "Close with the game"
-dst "Close with the game"
+dst "ゲームと一緒にWTRTIを閉じる"
 
 src "Auto-load profiles"
-dst "Auto-load profiles"
+dst "自動で読み込むプロファイルを選択"
 
 src "Default profiles"
-dst "Default profiles"
+dst "既定のプロファイル"
 
 src "Alert volume"
-dst "Alert volume"
+dst "警告音のボリューム"
 
 src "OSD"
 dst "OSD"
@@ -1044,31 +1044,31 @@ src "Font"
 dst "Font"
 
 src "Hide unavailable indicators"
-dst "Hide unavailable indicators"
+dst "利用出来ない項目を非表示にする"
 
 src "Status bar"
-dst "Status bar"
+dst "ステータスバー"
 
 src "Window mode"
 dst "Window mode"
 
 src "Group"
-dst "Group"
+dst "グループ設定"
 
 src "Language"
 dst "Language"
 
 src "Address"
-dst "Address"
+dst "IPアドレス:ポート"
 
 src "Advanced"
-dst "Advanced"
+dst "詳細設定"
 
 src "FM mode"
-dst "FM mode"
+dst "FM modeを有効にする"
 
 src "VR mode"
-dst "VR mode"
+dst "VR modeを有効にする"
 
 src "\"Flaps flutter\" always on"
 dst "\"Flaps flutter\" always on"
@@ -1077,13 +1077,13 @@ src "\"Gear flutter\" always on"
 dst "\"Gear flutter\" always on"
 
 src "Detecting broken Flaps"
-dst "Detecting broken Flaps"
+dst "フラップの破損を検出する"
 
 src "Detecting broken Landing Gear"
-dst "Detecting broken Landing Gear"
+dst "着陸装置の破損を検出する"
 
 src "Stop playing sounds when engine is off"
-dst "Stop playing sounds when engine is off"
+dst "エンジンが停止しているときはサウンドを止める"
 
 src "Compositor"
 dst "Compositor"
