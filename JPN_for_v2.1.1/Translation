@@ -102,16 +102,16 @@ src "Drag, lbf"
 dst "Drag, lbf"
 
 src "Total mass, kg"
-dst "Total mass, kg"
+dst "総重量, kg"
 
 src "Total mass, lb"
-dst "Total mass, lb"
+dst "総重量, lb"
 
 src "No fuel mass, kg"
-dst "No fuel mass, kg"
+dst "空虚重量, kg"
 
 src "No fuel mass, lb"
-dst "No fuel mass, lb"
+dst "空虚重量, lb"
 
 src "Thrust to Weight"
 dst "Thrust to Weight"
@@ -132,13 +132,13 @@ src "Critical AoA, %"
 dst "Critical AoA, %"
 
 src "Throttle, %"
-dst "Throttle, %"
+dst "スロットル, %"
 
 src "Flaps, %"
-dst "Flaps, %"
+dst "フラップ, %"
 
 src "Gear, %"
-dst "Gear, %"
+dst "着陸装置, %"
 
 src "Wing sweep, %"
 dst "Wing sweep, %"
@@ -150,7 +150,7 @@ src "Nozzle angle, deg"
 dst "Nozzle angle, deg"
 
 src "Mixture, %"
-dst "Mixture, %"
+dst "混合比, %"
 
 src "Radiator, %"
 dst "Radiator, %"
@@ -641,18 +641,18 @@ dst "Light"
 
 [Window mode]
 src "Borderless"
-dst "Borderless"
+dst "ボーダーレスウィンドウ"
 
 src "Windowed"
-dst "Windowed"
+dst "ウィンドウ"
 
 
 [Tray Icon]
 src "Show"
-dst "Show"
+dst "表示"
 
 src "Close"
-dst "Close"
+dst "閉じる"
 
 
 [Main Window]
