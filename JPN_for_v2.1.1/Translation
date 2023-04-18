@@ -150,7 +150,7 @@ src "Nozzle angle, deg"
 dst "Nozzle angle, deg"
 
 src "Mixture, %"
-dst "混合比, %"
+dst "Mixture, %"
 
 src "Radiator, %"
 dst "Radiator, %"
@@ -693,7 +693,7 @@ src "VR Settings"
 dst "VR Settings"
 
 src "Create shortcut"
-dst "Create shortcut"
+dst "ゲームとWTRTIを同時に起動するショートカットを作成"
 
 src "Save"
 dst "Save"
@@ -752,13 +752,13 @@ src "Displays advanced VR Settings"
 dst "Displays advanced VR Settings"
 
 src "Choose game path and a shortcut will be created."
-dst "Choose game path and a shortcut will be created."
+dst "ゲームの保存場所を選択してください"
 
 src "Shortcut successfully created!"
-dst "Shortcut successfully created!"
+dst "ショートカットを作成しました"
 
 src "Couldn't find the game launcher!"
-dst "Couldn't find the game launcher!"
+dst "ゲームのランチャーが見つかりません"
 
 src "Starts saving process.\n- <LMB> - opens 'Save as' window.\n- ALT-<LMB> - fast save."
 dst "Starts saving process.\n- <LMB> - opens 'Save as' window.\n- ALT-<LMB> - fast save."
@@ -867,7 +867,7 @@ dst "保存"
 
 [State Window Hints]
 src "- <RMB> - saves parameter in clipboard."
-dst "- <RMB> - saves parameter in clipboard."
+dst "- <RMB> - 数値をクリップボードにコピーする"
 
 
 [User Indicator Editor Window]
@@ -912,7 +912,7 @@ dst "Lua-script, for custom processing of indicator values.\nSample file is loca
 
 [Settings Window]
 src "Update interval (ms)"
-dst "画面更新頻度(ms)"
+dst "データ更新頻度(ms)"
 
 src "General"
 dst "全般"
@@ -924,7 +924,7 @@ src "Theme"
 dst "テーマ"
 
 src "Multi-value layout"
-dst "Multi-value layout"
+dst "複数の項目がある場合の表示順"
 
 src "Name"
 dst "Name"
@@ -939,10 +939,10 @@ src "Set"
 dst "Set"
 
 src "Add"
-dst "Add"
+dst "追加"
 
 src "Delete"
-dst "Delete"
+dst "削除"
 
 src "Color scheme"
 dst "Color scheme"
@@ -954,7 +954,7 @@ src "Color"
 dst "Color"
 
 src "Opacity"
-dst "Opacity"
+dst "透明度"
 
 src "Colors"
 dst "Colors"
@@ -966,13 +966,13 @@ src "Indicators in a row"
 dst "Indicators in a row"
 
 src "All"
-dst "All"
+dst "全ての項目に設定"
 
 src "Separate"
-dst "Separate"
+dst "項目によって個別に設定"
 
 src "Hotkeys"
-dst "Hotkeys"
+dst "ホットキー"
 
 src "Value alignment"
 dst "Value alignment"
@@ -981,13 +981,13 @@ src "Indicators interval"
 dst "Indicators interval"
 
 src "Layout"
-dst "Layout"
+dst "レイアウト"
 
 src "Frame"
-dst "Frame"
+dst "フレームを表示"
 
 src "Scale"
-dst "Scale"
+dst "大きさ"
 
 src "Show OSD"
 dst "OSDを表示する"
@@ -1002,7 +1002,7 @@ src "Y"
 dst "Y"
 
 src "Position"
-dst "Position"
+dst "表示位置"
 
 src "Benchmark mode"
 dst "Benchmark mode"
@@ -1050,10 +1050,10 @@ src "Status bar"
 dst "ステータスバー"
 
 src "Window mode"
-dst "Window mode"
+dst "ウィンドウモード"
 
 src "Group"
-dst "グループ設定"
+dst "グループ"
 
 src "Language"
 dst "Language"
@@ -1112,7 +1112,7 @@ dst "キャンセル"
 
 [Settings Window Hints]
 src "Allows to change the update interval (ms)."
-dst "Allows to change the update interval (ms)."
+dst "飛行データを更新する頻度を入力してください(ms)."
 
 src "List:\n  ENGN1, ENGN2, ENGN3, RPM1, RPM2, RMP3, etc\n\nShuffle (like in the game):\n  ENGN1, RPM1, ENGN2, RPM2, ENGN3, RPM3, etc"
 dst "List:\n  ENGN1, ENGN2, ENGN3, RPM1, RPM2, RMP3, etc\n\nShuffle (like in the game):\n  ENGN1, RPM1, ENGN2, RPM2, ENGN3, RPM3, etc"
@@ -1208,16 +1208,16 @@ src "Allows selecting language for user interface."
 dst "Allows selecting language for user interface."
 
 src "IP address."
-dst "IP address."
+dst "IPアドレスを入力してください"
 
 src "Port number."
-dst "Port number."
+dst "ポート番号を入力してください"
 
 src "Additional indicators for \"Test flight\".\n\nSee README.txt file for more information"
-dst "Additional indicators for \"Test flight\".\n\nSee README.txt file for more information"
+dst "\"テストフライト\"でのみ確認出来る追加の情報を表示します。\n\nREADME.txtに詳しい情報があります。"
 
 src "VR capabilities.\n\nSee README.txt file for more information"
-dst "VR capabilities.\n\nSee README.txt file for more information"
+dst "VR用の機能です。\n\nREADME.txtに詳しい情報があります。"
 
 
 [Font Settings Window]
@@ -1293,28 +1293,28 @@ dst "Group name"
 
 [Default Profile Settings Window]
 src "Prop"
-dst "Prop"
+dst "プロペラ機"
 
 src "Jet"
-dst "Jet"
+dst "ジェット機"
 
 src "Fighter"
-dst "Fighter"
+dst "戦闘機"
 
 src "Strike"
-dst "Strike"
+dst "攻撃機"
 
 src "Bomber"
-dst "Bomber"
+dst "爆撃機"
 
 src "Helicopter"
-dst "Helicopter"
+dst "ヘリコプター"
 
 src "By Aircraft type"
-dst "By Aircraft type"
+dst "航空機の分類によって変更する"
 
 src "By Propulsion"
-dst "By Propulsion"
+dst "エンジンの種類によって変更する"
 
 src "OK"
 dst "OK"
