@@ -10,6 +10,13 @@ Japanese Localization Files for MeSoftHorny ‘s WTRTI
 3. Copy `Description` and `Translation` files into the `Japanese` folder.
 4. Select `Japanese` from `Settings`>`Language` of WTRTI.
 
+## Task lists
+
+## Author
+オタク、水を飲め。(JP) - Main contributor
+
+## Licence
+
 ## Links
 - MeSoftHorny ‘s WTRTI
     - https://github.com/MeSoftHorny/WTRTI
