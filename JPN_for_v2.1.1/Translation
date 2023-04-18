@@ -1,39 +1,39 @@
 [Indicators]
 src "Altitude, m"
-dst "Altitude, m"
+dst "高度, m"
 
 src "Altitude, ft"
-dst "Altitude, ft"
+dst "高度, ft"
 
 src "Radar altitude, m"
-dst "Radar altitude, m"
+dst "レーダー高度, m"
 
 src "Radar altitude, ft"
-dst "Radar altitude, ft"
+dst "レーダー高度, ft"
 
 src "Compass"
-dst "Compass"
+dst "方位"
 
 src "IAS, km/h"
-dst "IAS, km/h"
+dst "指示対気速度(IAS), km/h"
 
 src "IAS, mph"
-dst "IAS, mph"
+dst "指示対気速度(IAS), mph"
 
 src "IAS, knots"
-dst "IAS, knots"
+dst "指示対気速度(IAS), knots"
 
 src "TAS, km/h"
-dst "TAS, km/h"
+dst "真対気速度(TAS), km/h"
 
 src "TAS, mph"
-dst "TAS, mph"
+dst "真対気速度(TAS), mph"
 
 src "TAS, knots"
-dst "TAS, knots"
+dst "真対気速度(TAS), knots"
 
 src "Mach number"
-dst "Mach number"
+dst "マッハ"
 
 src "AoA, deg"
 dst "AoA, deg"
@@ -778,19 +778,19 @@ dst "The selected Indicator will be deleted. Are you sure?"
 
 [Update Period]
 src "never"
-dst "never"
+dst "無効"
 
 src "startup"
-dst "startup"
+dst "起動時に毎回"
 
 src "daily"
-dst "daily"
+dst "毎日"
 
 src "weekly"
-dst "weekly"
+dst "毎週"
 
 src "monthly"
-dst "monthly"
+dst "毎月"
 
 
 [Add Indicator Window]
@@ -798,7 +798,7 @@ src "OK"
 dst "OK"
 
 src "Cancel"
-dst "Cancel"
+dst "キャンセル"
 
 src "Indicator"
 dst "Indicator"
@@ -890,7 +890,7 @@ src "Name"
 dst "Name"
 
 src "General"
-dst "General"
+dst "全般"
 
 src "OSD"
 dst "OSD"
@@ -899,7 +899,7 @@ src "OK"
 dst "OK"
 
 src "Cancel"
-dst "Cancel"
+dst "キャンセル"
 
 
 [User Indicator Editor Window Hints]
@@ -915,7 +915,7 @@ src "Update interval (ms)"
 dst "Update interval (ms)"
 
 src "General"
-dst "General"
+dst "全般"
 
 src "Network"
 dst "Network"
@@ -1014,7 +1014,7 @@ src "MER calculation"
 dst "MER calculation"
 
 src "Apply"
-dst "Apply"
+dst "適用"
 
 src "Start minimized"
 dst "Start minimized"
@@ -1107,7 +1107,7 @@ src "OK"
 dst "OK"
 
 src "Cancel"
-dst "Cancel"
+dst "キャンセル"
 
 
 [Settings Window Hints]
@@ -1243,7 +1243,7 @@ src "OK"
 dst "OK"
 
 src "Cancel"
-dst "Cancel"
+dst "キャンセル"
 
 
 [Font Settings Window Hints]
@@ -1320,7 +1320,7 @@ src "OK"
 dst "OK"
 
 src "Cancel"
-dst "Cancel"
+dst "キャンセル"
 
 
 [Hotkey Settings Window]
@@ -1331,7 +1331,7 @@ src "Hold"
 dst "Hold"
 
 src "General"
-dst "General"
+dst "全般"
 
 src "Play Sounds"
 dst "Play Sounds"
@@ -1364,7 +1364,7 @@ src "OK"
 dst "OK"
 
 src "Cancel"
-dst "Cancel"
+dst "キャンセル"
 
 
 [Hotkey Settings Window Hints]
@@ -1410,7 +1410,7 @@ src "OK"
 dst "OK"
 
 src "Cancel"
-dst "Cancel"
+dst "キャンセル"
 
 
 [Status Bar Settings Window Hints]
@@ -1423,7 +1423,7 @@ src "Show in OSD"
 dst "Show in OSD"
 
 src "General"
-dst "General"
+dst "全般"
 
 src "Group"
 dst "Group"
@@ -1504,10 +1504,10 @@ src "OK"
 dst "OK"
 
 src "Cancel"
-dst "Cancel"
+dst "キャンセル"
 
 src "Apply"
-dst "Apply"
+dst "適用"
 
 
 [Indicator Settings Window Hints]
@@ -1636,7 +1636,7 @@ src "OK"
 dst "OK"
 
 src "Cancel"
-dst "Cancel"
+dst "キャンセル"
 
 
 [Indicator Alert Settings Window Hints]
@@ -1661,7 +1661,7 @@ src "OK"
 dst "OK"
 
 src "Cancel"
-dst "Cancel"
+dst "キャンセル"
 
 
 [Indicator Alert Dependence Window Hints]
@@ -1693,7 +1693,7 @@ dst "Hints:\n- <Double-click> - opens in web browser Translate page, with transl
 
 [Game Chat Settings Window]
 src "General"
-dst "General"
+dst "全般"
 
 src "Open at startup"
 dst "Open at startup"
@@ -1732,7 +1732,7 @@ src "OK"
 dst "OK"
 
 src "Cancel"
-dst "Cancel"
+dst "キャンセル"
 
 
 [Game Chat Settings Window Hints]
@@ -1804,7 +1804,7 @@ dst "Hints:\n- <RMB> - saves message in clipboard."
 
 [Battle Log Settings Window]
 src "General"
-dst "General"
+dst "全般"
 
 src "Open at startup"
 dst "Open at startup"
@@ -1831,7 +1831,7 @@ src "OK"
 dst "OK"
 
 src "Cancel"
-dst "Cancel"
+dst "キャンセル"
 
 
 [Battle Log Settings Window Hints]
@@ -1856,43 +1856,43 @@ src "Reset"
 dst "Reset"
 
 src "General"
-dst "General"
+dst "全般"
 
 src "Disclaimer"
 dst "Disclaimer"
 
 src "Dimensions"
-dst "Dimensions"
+dst "寸法"
 
 src "Length"
 dst "Length"
 
 src "Wing span"
-dst "Wing span"
+dst "翼幅"
 
 src "Wing area"
-dst "Wing area"
+dst "翼面積"
 
 src "Vehicle Information"
-dst "Vehicle Information"
+dst "機体情報"
 
 src "Name"
-dst "Name"
+dst "名称"
 
 src "Vehicle"
-dst "Vehicle"
+dst "機種"
 
 src "Mass"
-dst "Mass"
+dst "重量"
 
 src "Empty mass"
-dst "Empty mass"
+dst "空虚重量"
 
 src "Max Fuel mass"
-dst "Max Fuel mass"
+dst "最大燃料積載量"
 
 src "Critical overload"
-dst "Critical overload"
+dst "過負荷"
 
 src "At mass"
 dst "At mass"
@@ -1910,73 +1910,73 @@ src "Negative"
 dst "Negative"
 
 src "Critical speed"
-dst "Critical speed"
+dst "上限速度"
 
 src "Structural"
-dst "Structural"
+dst "機体構造"
 
 src "Mach"
-dst "Mach"
+dst "マッハ"
 
 src "Gear"
-dst "Gear"
+dst "着陸装置"
 
 src "Flaps"
-dst "Flaps"
+dst "フラップ"
 
 src "Combat"
-dst "Combat"
+dst "戦闘"
 
 src "Takeoff"
-dst "Takeoff"
+dst "離陸"
 
 src "Landing"
-dst "Landing"
+dst "着陸"
 
 src "Critical Angle of Attack"
-dst "Critical Angle of Attack"
+dst "臨界迎え角"
 
 src "No Flaps"
-dst "No Flaps"
+dst "フラップ格納"
 
 src "Full Flaps"
-dst "Full Flaps"
+dst "フラップ最大"
 
 src "Settings"
-dst "Settings"
+dst "設定"
 
 src "Database"
 dst "Database"
 
 src "Download Update"
-dst "Download Update"
+dst "更新をダウンロード"
 
 src "Use the generated"
 dst "Use the generated"
 
 src "Generate"
-dst "Generate"
+dst "展開した内部データから生成"
 
 src "Select the \"flightmodels\" folder"
-dst "Select the \"flightmodels\" folder"
+dst "展開した\"flightmodels\"フォルダーを指定してください"
 
 src "Database has been successfully Created and Loaded!"
-dst "Database has been successfully Created and Loaded!"
+dst "Databaseの生成と読み込みに成功しました"
 
 src "Database is already up to date!"
-dst "Database is already up to date!"
+dst "Databaseは既に最新の状態です"
 
 src "Cannot connect to server!"
-dst "Cannot connect to server!"
+dst "サーバーに接続できません"
 
 src "Database has been successfully Updated!"
-dst "Database has been successfully Updated!"
+dst "Databaseの更新が完了しました"
 
 src "Checking for updates"
-dst "Checking for updates"
+dst "更新を確認中"
 
 src "ERROR:"
-dst "ERROR:"
+dst "エラー:"
 
 src "Wrong path"
 dst "Wrong path"
@@ -2016,13 +2016,13 @@ dst "This data depends on the pre-generated offline database, so it will need to
 
 [Vehicle Information Settings Window]
 src "General"
-dst "General"
+dst "全般"
 
 src "Database"
 dst "Database"
 
 src "Update checking"
-dst "Update checking"
+dst "更新を確認する頻度"
 
 src "Units"
 dst "Units"
@@ -2049,7 +2049,7 @@ src "OK"
 dst "OK"
 
 src "Cancel"
-dst "Cancel"
+dst "キャンセル"
 
 
 [Vehicle Information Settings Window Hints]
@@ -2059,7 +2059,7 @@ dst "Allows you to select the database update checking period."
 
 [VR Settings Window]
 src "General"
-dst "General"
+dst "全般"
 
 src "VR settings in a Profile"
 dst "VR settings in a Profile"
@@ -2101,10 +2101,10 @@ src "OK"
 dst "OK"
 
 src "Cancel"
-dst "Cancel"
+dst "キャンセル"
 
 src "Apply"
-dst "Apply"
+dst "適用"
 
 
 [VR Settings Window Hints]
