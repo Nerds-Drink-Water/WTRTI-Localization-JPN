@@ -1,0 +1,2147 @@
+[Indicators]
+src "Altitude, m"
+dst "Altitude, m"
+
+src "Altitude, ft"
+dst "Altitude, ft"
+
+src "Radar altitude, m"
+dst "Radar altitude, m"
+
+src "Radar altitude, ft"
+dst "Radar altitude, ft"
+
+src "Compass"
+dst "Compass"
+
+src "IAS, km/h"
+dst "IAS, km/h"
+
+src "IAS, mph"
+dst "IAS, mph"
+
+src "IAS, knots"
+dst "IAS, knots"
+
+src "TAS, km/h"
+dst "TAS, km/h"
+
+src "TAS, mph"
+dst "TAS, mph"
+
+src "TAS, knots"
+dst "TAS, knots"
+
+src "Mach number"
+dst "Mach number"
+
+src "AoA, deg"
+dst "AoA, deg"
+
+src "AoS, deg"
+dst "AoS, deg"
+
+src "Roll angle, deg"
+dst "Roll angle, deg"
+
+src "Pitch angle, deg"
+dst "Pitch angle, deg"
+
+src "Acceleration, m/s²"
+dst "Acceleration, m/s²"
+
+src "Acceleration, ft/s²"
+dst "Acceleration, ft/s²"
+
+src "Climb, m/s"
+dst "Climb, m/s"
+
+src "Climb, ft/min"
+dst "Climb, ft/min"
+
+src "Roll rate, deg/s"
+dst "Roll rate, deg/s"
+
+src "Roll, s"
+dst "Roll, s"
+
+src "Turn rate, rad/s"
+dst "Turn rate, rad/s"
+
+src "Turn rate, deg/s"
+dst "Turn rate, deg/s"
+
+src "Turn, s"
+dst "Turn, s"
+
+src "Turn radius, m"
+dst "Turn radius, m"
+
+src "Turn radius, ft"
+dst "Turn radius, ft"
+
+src "Load factor, g"
+dst "Load factor, g"
+
+src "Specific energy, J/kg"
+dst "Specific energy, J/kg"
+
+src "Specific excess power, m/s"
+dst "Specific excess power, m/s"
+
+src "Specific excess power, ft/min"
+dst "Specific excess power, ft/min"
+
+src "Excess power, W"
+dst "Excess power, W"
+
+src "Drag, kgf"
+dst "Drag, kgf"
+
+src "Drag, lbf"
+dst "Drag, lbf"
+
+src "Total mass, kg"
+dst "Total mass, kg"
+
+src "Total mass, lb"
+dst "Total mass, lb"
+
+src "No fuel mass, kg"
+dst "No fuel mass, kg"
+
+src "No fuel mass, lb"
+dst "No fuel mass, lb"
+
+src "Thrust to Weight"
+dst "Thrust to Weight"
+
+src "Critical G, %"
+dst "Critical G, %"
+
+src "Wing flutter, %"
+dst "Wing flutter, %"
+
+src "Gear flutter, %"
+dst "Gear flutter, %"
+
+src "Flaps flutter, %"
+dst "Flaps flutter, %"
+
+src "Critical AoA, %"
+dst "Critical AoA, %"
+
+src "Throttle, %"
+dst "Throttle, %"
+
+src "Flaps, %"
+dst "Flaps, %"
+
+src "Gear, %"
+dst "Gear, %"
+
+src "Wing sweep, %"
+dst "Wing sweep, %"
+
+src "Wing sweep lever, %"
+dst "Wing sweep lever, %"
+
+src "Nozzle angle, deg"
+dst "Nozzle angle, deg"
+
+src "Mixture, %"
+dst "Mixture, %"
+
+src "Radiator, %"
+dst "Radiator, %"
+
+src "Oil radiator, %"
+dst "Oil radiator, %"
+
+src "Airbrake, %"
+dst "Airbrake, %"
+
+src "Aileron, %"
+dst "Aileron, %"
+
+src "Elevator, %"
+dst "Elevator, %"
+
+src "Rudder, %"
+dst "Rudder, %"
+
+src "Propeller efficiency, %"
+dst "Propeller efficiency, %"
+
+src "Propeller pitch, %"
+dst "Propeller pitch, %"
+
+src "Propeller pitch, deg"
+dst "Propeller pitch, deg"
+
+src "Engine temperature, °C"
+dst "Engine temperature, °C"
+
+src "Engine temperature, °C/s"
+dst "Engine temperature, °C/s"
+
+src "Engine temperature, °F"
+dst "Engine temperature, °F"
+
+src "Oil temperature, °C"
+dst "Oil temperature, °C"
+
+src "Oil temperature, °C/s"
+dst "Oil temperature, °C/s"
+
+src "Oil temperature, °F"
+dst "Oil temperature, °F"
+
+src "Water temperature, °C"
+dst "Water temperature, °C"
+
+src "Water temperature, °C/s"
+dst "Water temperature, °C/s"
+
+src "Water temperature, °F"
+dst "Water temperature, °F"
+
+src "Manifold pressure, atm"
+dst "Manifold pressure, atm"
+
+src "Supercharger gear"
+dst "Supercharger gear"
+
+src "RPM"
+dst "RPM"
+
+src "Power, hp"
+dst "Power, hp"
+
+src "Thrust, kgf"
+dst "Thrust, kgf"
+
+src "Thrust, lbf"
+dst "Thrust, lbf"
+
+src "Fuel, %"
+dst "Fuel, %"
+
+src "Fuel, m:s"
+dst "Fuel, m:s"
+
+src "Mass of Fuel, kg"
+dst "Mass of Fuel, kg"
+
+src "Mass of Fuel, lb"
+dst "Mass of Fuel, lb"
+
+src "Fuel consumption, kg/min"
+dst "Fuel consumption, kg/min"
+
+src "Fuel consumption, lb/min"
+dst "Fuel consumption, lb/min"
+
+src "BSFC"
+dst "BSFC"
+
+src "TSFC"
+dst "TSFC"
+
+src "Booster remain, %"
+dst "Booster remain, %"
+
+src "Booster remain, kg"
+dst "Booster remain, kg"
+
+src "Booster remain, lb"
+dst "Booster remain, lb"
+
+src "WEP time, m:s"
+dst "WEP time, m:s"
+
+src "WEP remain, m:s"
+dst "WEP remain, m:s"
+
+
+[OSD Indicators]
+src "Altitude, m"
+dst "ALT"
+
+src "Altitude, ft"
+dst "ALT"
+
+src "Radar altitude, m"
+dst "RALT"
+
+src "Radar altitude, ft"
+dst "RALT"
+
+src "Compass"
+dst "HDG"
+
+src "IAS, km/h"
+dst "IAS"
+
+src "IAS, mph"
+dst "IAS"
+
+src "IAS, knots"
+dst "IAS"
+
+src "TAS, km/h"
+dst "TAS"
+
+src "TAS, mph"
+dst "TAS"
+
+src "TAS, knots"
+dst "TAS"
+
+src "Mach number"
+dst "MACH"
+
+src "AoA, deg"
+dst "AOA"
+
+src "AoS, deg"
+dst "AOS"
+
+src "Roll angle, deg"
+dst "ROLL"
+
+src "Pitch angle, deg"
+dst "PTCH"
+
+src "Acceleration, m/s²"
+dst "ACC"
+
+src "Acceleration, ft/s²"
+dst "ACC"
+
+src "Climb, m/s"
+dst "CLMB"
+
+src "Climb, ft/min"
+dst "CLMB"
+
+src "Roll rate, deg/s"
+dst "ROLL"
+
+src "Roll, s"
+dst "ROLL"
+
+src "Turn rate, rad/s"
+dst "TURN"
+
+src "Turn rate, deg/s"
+dst "TURN"
+
+src "Turn, s"
+dst "TURN"
+
+src "Turn radius, m"
+dst "TURN"
+
+src "Turn radius, ft"
+dst "TURN"
+
+src "Load factor, g"
+dst "LDF"
+
+src "Specific energy, J/kg"
+dst "SE"
+
+src "Specific excess power, m/s"
+dst "SEP"
+
+src "Specific excess power, ft/min"
+dst "SEP"
+
+src "Excess power, W"
+dst "EP"
+
+src "Drag, kgf"
+dst "DRAG"
+
+src "Drag, lbf"
+dst "DRAG"
+
+src "Total mass, kg"
+dst "TWT"
+
+src "Total mass, lb"
+dst "TWT"
+
+src "No fuel mass, kg"
+dst "NFWT"
+
+src "No fuel mass, lb"
+dst "NFWT"
+
+src "Thrust to Weight"
+dst "TWR"
+
+src "Critical G, %"
+dst "CG"
+
+src "Wing flutter, %"
+dst "FWING"
+
+src "Gear flutter, %"
+dst "FGEAR"
+
+src "Flaps flutter, %"
+dst "FFLAP"
+
+src "Critical AoA, %"
+dst "CAOA"
+
+src "Throttle, %"
+dst "THR"
+
+src "Flaps, %"
+dst "FLPS"
+
+src "Gear, %"
+dst "GEAR"
+
+src "Wing sweep, %"
+dst "SWEEP"
+
+src "Wing sweep lever, %"
+dst "SWEEP"
+
+src "Nozzle angle, deg"
+dst "NOZL"
+
+src "Mixture, %"
+dst "MXTR"
+
+src "Radiator, %"
+dst "RDTR"
+
+src "Oil radiator, %"
+dst "OIL"
+
+src "Airbrake, %"
+dst "ABRK"
+
+src "Aileron, %"
+dst "ALRN"
+
+src "Elevator, %"
+dst "ELVT"
+
+src "Rudder, %"
+dst "RUDR"
+
+src "Propeller efficiency, %"
+dst "PEFC"
+
+src "Propeller pitch, %"
+dst "PPTCH"
+
+src "Propeller pitch, deg"
+dst "PPTCH"
+
+src "Engine temperature, °C"
+dst "ENGN"
+
+src "Engine temperature, °C/s"
+dst "ENGN"
+
+src "Engine temperature, °F"
+dst "ENGN"
+
+src "Oil temperature, °C"
+dst "OIL"
+
+src "Oil temperature, °C/s"
+dst "OIL"
+
+src "Oil temperature, °F"
+dst "OIL"
+
+src "Water temperature, °C"
+dst "WATER"
+
+src "Water temperature, °C/s"
+dst "WATER"
+
+src "Water temperature, °F"
+dst "WATER"
+
+src "Manifold pressure, atm"
+dst "MAP"
+
+src "Supercharger gear"
+dst "SCG"
+
+src "RPM"
+dst "RPM"
+
+src "Power, hp"
+dst "PWR"
+
+src "Thrust, kgf"
+dst "TRST"
+
+src "Thrust, lbf"
+dst "TRST"
+
+src "Fuel, %"
+dst "FUEL"
+
+src "Fuel, m:s"
+dst "FUEL"
+
+src "Mass of Fuel, kg"
+dst "FUEL"
+
+src "Mass of Fuel, lb"
+dst "FUEL"
+
+src "Fuel consumption, kg/min"
+dst "FUEL"
+
+src "Fuel consumption, lb/min"
+dst "FUEL"
+
+src "BSFC"
+dst "BSFC"
+
+src "TSFC"
+dst "TSFC"
+
+src "Booster remain, %"
+dst "BOOST"
+
+src "Booster remain, kg"
+dst "BOOST"
+
+src "Booster remain, lb"
+dst "BOOST"
+
+src "WEP time, m:s"
+dst "WEPT"
+
+src "WEP remain, m:s"
+dst "WEP"
+
+
+[OSD Units]
+src "m"
+dst "m"
+
+src "m/s"
+dst "m/s"
+
+src "m/s^2"
+dst "m/s^2"
+
+src "ft"
+dst "ft"
+
+src "ft/s"
+dst "ft/s"
+
+src "ft/s^2"
+dst "ft/s^2"
+
+src "ft/min"
+dst "ft/min"
+
+src "deg"
+dst "deg"
+
+src "deg/s"
+dst "deg/s"
+
+src "rad/s"
+dst "rad/s"
+
+src "g"
+dst "g"
+
+src "km/h"
+dst "km/h"
+
+src "mph"
+dst "mph"
+
+src "kt"
+dst "kt"
+
+src "s"
+dst "s"
+
+src "ms"
+dst "ms"
+
+src "%"
+dst "%"
+
+src "atm"
+dst "atm"
+
+src "hp"
+dst "hp"
+
+src "kg"
+dst "kg"
+
+src "kgf"
+dst "kgf"
+
+src "kg/min"
+dst "kg/min"
+
+src "kg/kgh"
+dst "kg/kgh"
+
+src "lb"
+dst "lb"
+
+src "lbf"
+dst "lbf"
+
+src "lb/min"
+dst "lb/min"
+
+src "lb/lbh"
+dst "lb/lbh"
+
+src "°C"
+dst "°C"
+
+src "°C/s"
+dst "°C/s"
+
+src "°F"
+dst "°F"
+
+src "J/kg"
+dst "J/kg"
+
+src "W"
+dst "W"
+
+
+[OSD Font Style]
+src "Regular"
+dst "Regular"
+
+src "Bold"
+dst "Bold"
+
+src "Light"
+dst "Light"
+
+
+[Window mode]
+src "Borderless"
+dst "Borderless"
+
+src "Windowed"
+dst "Windowed"
+
+
+[Tray Icon]
+src "Show"
+dst "Show"
+
+src "Close"
+dst "Close"
+
+
+[Main Window]
+src "Add"
+dst "Add"
+
+src "Delete"
+dst "Delete"
+
+src "Up"
+dst "Up"
+
+src "Down"
+dst "Down"
+
+src "Indicator"
+dst "Indicator"
+
+src "Value"
+dst "Value"
+
+src "Settings"
+dst "Settings"
+
+src "Game chat"
+dst "Game chat"
+
+src "Battle log"
+dst "Battle log"
+
+src "Mission"
+dst "Mission"
+
+src "Vehicle Information"
+dst "Vehicle Information"
+
+src "VR Settings"
+dst "VR Settings"
+
+src "Create shortcut"
+dst "Create shortcut"
+
+src "Save"
+dst "Save"
+
+src "Reset"
+dst "Reset"
+
+src "N/A"
+dst "N/A"
+
+src "State"
+dst "State"
+
+src "In battle"
+dst "In battle"
+
+src "In hangar"
+dst "In hangar"
+
+
+[Main Window Hints]
+src "Adds indicator to the list."
+dst "Adds indicator to the list."
+
+src "Deletes selected indicator from the list."
+dst "Deletes selected indicator from the list."
+
+src "Moves selected indicator up in the list."
+dst "Moves selected indicator up in the list."
+
+src "Moves selected indicator down in the list."
+dst "Moves selected indicator down in the list."
+
+src "<Double-click> - opens Group/Indicator settings."
+dst "<Double-click> - opens Group/Indicator settings."
+
+src "Closes software."
+dst "Closes software."
+
+src "Minimizes software."
+dst "Minimizes software."
+
+src "Displays advanced properties."
+dst "Displays advanced properties."
+
+src "Displays game chat."
+dst "Displays game chat."
+
+src "Displays battle log."
+dst "Displays battle log."
+
+src "Displays additional vehicle information."
+dst "Displays additional vehicle information."
+
+src "Displays advanced VR Settings"
+dst "Displays advanced VR Settings"
+
+src "Choose game path and a shortcut will be created."
+dst "Choose game path and a shortcut will be created."
+
+src "Shortcut successfully created!"
+dst "Shortcut successfully created!"
+
+src "Couldn't find the game launcher!"
+dst "Couldn't find the game launcher!"
+
+src "Starts saving process.\n- <LMB> - opens 'Save as' window.\n- ALT-<LMB> - fast save."
+dst "Starts saving process.\n- <LMB> - opens 'Save as' window.\n- ALT-<LMB> - fast save."
+
+src "The current profile has been changed. Do you want save it?"
+dst "The current profile has been changed. Do you want save it?"
+
+src "Resets to default settings."
+dst "Resets to default settings."
+
+src "All current settings will be deleted. Are you sure?"
+dst "All current settings will be deleted. Are you sure?"
+
+src "The selected Indicator will be deleted. Are you sure?"
+dst "The selected Indicator will be deleted. Are you sure?"
+
+
+[Update Period]
+src "never"
+dst "never"
+
+src "startup"
+dst "startup"
+
+src "daily"
+dst "daily"
+
+src "weekly"
+dst "weekly"
+
+src "monthly"
+dst "monthly"
+
+
+[Add Indicator Window]
+src "OK"
+dst "OK"
+
+src "Cancel"
+dst "Cancel"
+
+src "Indicator"
+dst "Indicator"
+
+src "Units"
+dst "Units"
+
+src "SI"
+dst "SI"
+
+src "US"
+dst "US"
+
+src "All"
+dst "All"
+
+src "FM"
+dst "FM"
+
+src "Flight"
+dst "Flight"
+
+src "Controls"
+dst "Controls"
+
+src "Engine"
+dst "Engine"
+
+src "Fuel"
+dst "Fuel"
+
+src "User made"
+dst "User made"
+
+src "Filter"
+dst "Filter"
+
+src "New indicator"
+dst "New indicator"
+
+src "Add"
+dst "Add"
+
+src "Delete"
+dst "Delete"
+
+src "Edit"
+dst "Edit"
+
+
+[Add Indicator Window Hints]
+src "- <Double-click> - add the indicator to the main list.\n- <RMB> - extra menu."
+dst "- <Double-click> - add the indicator to the main list.\n- <RMB> - extra menu."
+
+src "ERROR: Indicator with kind of Name already exist."
+dst "ERROR: Indicator with kind of Name already exist."
+
+src "The selected Indicator will be deleted. Are you sure?"
+dst "The selected Indicator will be deleted. Are you sure?"
+
+
+[State Window]
+src "Save"
+dst "Save"
+
+
+[State Window Hints]
+src "- <RMB> - saves parameter in clipboard."
+dst "- <RMB> - saves parameter in clipboard."
+
+
+[User Indicator Editor Window]
+src "State Key"
+dst "State Key"
+
+src "Precision"
+dst "Precision"
+
+src "Custom"
+dst "Custom"
+
+src "Lua-script"
+dst "Lua-script"
+
+src "Units"
+dst "Units"
+
+src "Name"
+dst "Name"
+
+src "General"
+dst "General"
+
+src "OSD"
+dst "OSD"
+
+src "OK"
+dst "OK"
+
+src "Cancel"
+dst "Cancel"
+
+
+[User Indicator Editor Window Hints]
+src "Allows to set a parameter string for reading data from localhost:8111.Use \"State\" window (Press <F2> at the main window) to see which parameters are available.\n\nEmpty \"State Key\" - switches the indicator into \"label\" mode, which will only show OSD name and triggering an alerts.\n\nAdding \"%d\" to the \"State Key\", allows to read multiple parameters(e.g. multiple engines) with the same key.\n  Examples:\n    RPM %d\n    manifold_pressure%d\n    throttle %d, %%"
+dst "Allows to set a parameter string for reading data from localhost:8111.Use \"State\" window (Press <F2> at the main window) to see which parameters are available.\n\nEmpty \"State Key\" - switches the indicator into \"label\" mode, which will only show OSD name and triggering an alerts.\n\nAdding \"%d\" to the \"State Key\", allows to read multiple parameters(e.g. multiple engines) with the same key.\n  Examples:\n    RPM %d\n    manifold_pressure%d\n    throttle %d, %%"
+
+src "Lua-script, for custom processing of indicator values.\nSample file is located at:\n    Indicators\\\"Name\"\\update.lua\n\n<F9> at the main window - reload scripts."
+dst "Lua-script, for custom processing of indicator values.\nSample file is located at:\n    Indicators\\\"Name\"\\update.lua\n\n<F9> at the main window - reload scripts."
+
+
+[Settings Window]
+src "Update interval (ms)"
+dst "Update interval (ms)"
+
+src "General"
+dst "General"
+
+src "Network"
+dst "Network"
+
+src "Theme"
+dst "Theme"
+
+src "Multi-value layout"
+dst "Multi-value layout"
+
+src "Name"
+dst "Name"
+
+src "Value"
+dst "Value"
+
+src "Units"
+dst "Units"
+
+src "Set"
+dst "Set"
+
+src "Add"
+dst "Add"
+
+src "Delete"
+dst "Delete"
+
+src "Color scheme"
+dst "Color scheme"
+
+src "Color editor"
+dst "Color editor"
+
+src "Color"
+dst "Color"
+
+src "Opacity"
+dst "Opacity"
+
+src "Colors"
+dst "Colors"
+
+src "Color Name"
+dst "Color Name"
+
+src "Indicators in a row"
+dst "Indicators in a row"
+
+src "All"
+dst "All"
+
+src "Separate"
+dst "Separate"
+
+src "Hotkeys"
+dst "Hotkeys"
+
+src "Value alignment"
+dst "Value alignment"
+
+src "Indicators interval"
+dst "Indicators interval"
+
+src "Layout"
+dst "Layout"
+
+src "Frame"
+dst "Frame"
+
+src "Scale"
+dst "Scale"
+
+src "Show OSD"
+dst "Show OSD"
+
+src "Show units in OSD"
+dst "Show units in OSD"
+
+src "X"
+dst "X"
+
+src "Y"
+dst "Y"
+
+src "Position"
+dst "Position"
+
+src "Benchmark mode"
+dst "Benchmark mode"
+
+src "Logging interval (ms)"
+dst "Logging interval (ms)"
+
+src "MER calculation"
+dst "MER calculation"
+
+src "Apply"
+dst "Apply"
+
+src "Start minimized"
+dst "Start minimized"
+
+src "Minimize to notification area"
+dst "Minimize to notification area"
+
+src "Close with the game"
+dst "Close with the game"
+
+src "Auto-load profiles"
+dst "Auto-load profiles"
+
+src "Default profiles"
+dst "Default profiles"
+
+src "Alert volume"
+dst "Alert volume"
+
+src "OSD"
+dst "OSD"
+
+src "OSD Type"
+dst "OSD Type"
+
+src "Font"
+dst "Font"
+
+src "Hide unavailable indicators"
+dst "Hide unavailable indicators"
+
+src "Status bar"
+dst "Status bar"
+
+src "Window mode"
+dst "Window mode"
+
+src "Group"
+dst "Group"
+
+src "Language"
+dst "Language"
+
+src "Address"
+dst "Address"
+
+src "Advanced"
+dst "Advanced"
+
+src "FM mode"
+dst "FM mode"
+
+src "VR mode"
+dst "VR mode"
+
+src "\"Flaps flutter\" always on"
+dst "\"Flaps flutter\" always on"
+
+src "\"Gear flutter\" always on"
+dst "\"Gear flutter\" always on"
+
+src "Detecting broken Flaps"
+dst "Detecting broken Flaps"
+
+src "Detecting broken Landing Gear"
+dst "Detecting broken Landing Gear"
+
+src "Stop playing sounds when engine is off"
+dst "Stop playing sounds when engine is off"
+
+src "Compositor"
+dst "Compositor"
+
+src "Handle data in every game mode"
+dst "Handle data in every game mode"
+
+src "Type"
+dst "Type"
+
+src "Enable at startup"
+dst "Enable at startup"
+
+src "Disable at shutdown"
+dst "Disable at shutdown"
+
+src "Show group name"
+dst "Show group name"
+
+src "OK"
+dst "OK"
+
+src "Cancel"
+dst "Cancel"
+
+
+[Settings Window Hints]
+src "Allows to change the update interval (ms)."
+dst "Allows to change the update interval (ms)."
+
+src "List:\n  ENGN1, ENGN2, ENGN3, RPM1, RPM2, RMP3, etc\n\nShuffle (like in the game):\n  ENGN1, RPM1, ENGN2, RPM2, ENGN3, RPM3, etc"
+dst "List:\n  ENGN1, ENGN2, ENGN3, RPM1, RPM2, RMP3, etc\n\nShuffle (like in the game):\n  ENGN1, RPM1, ENGN2, RPM2, ENGN3, RPM3, etc"
+
+src "Allows changing of indicator Name color."
+dst "Allows changing of indicator Name color."
+
+src "Allows changing of indicator Value color."
+dst "Allows changing of indicator Value color."
+
+src "Allows changing of indicator Units color."
+dst "Allows changing of indicator Units color."
+
+src "Saves current settings to the color slot."
+dst "Saves current settings to the color slot."
+
+src "Allows changing opacity."
+dst "Allows changing opacity."
+
+src "Color slots."
+dst "Color slots."
+
+src "Allows you to assign a name to the color."
+dst "Allows you to assign a name to the color."
+
+src "The number of Indicators in a row."
+dst "The number of Indicators in a row."
+
+src "Changes appearance of All indicators at once."
+dst "Changes appearance of All indicators at once."
+
+src "Individual appearance of indicators.\n\nHints:\n- Individual settings of indicator are located at Indicator settings.\n- <Double-click> on indicator in main window - opens Indicator settings."
+dst "Individual appearance of indicators.\n\nHints:\n- Individual settings of indicator are located at Indicator settings.\n- <Double-click> on indicator in main window - opens Indicator settings."
+
+src "Value position."
+dst "Value position."
+
+src "Interval between indicators in a row."
+dst "Interval between indicators in a row."
+
+src "Allows to set per-group background/rectangle.\n\nWorks only for WTRTI OSD."
+dst "Allows to set per-group background/rectangle.\n\nWorks only for WTRTI OSD."
+
+src "Frame color."
+dst "Frame color."
+
+src "Frame line width.\n0 - filled rectangle."
+dst "Frame line width.\n0 - filled rectangle."
+
+src "Show OSD."
+dst "Show OSD."
+
+src "Show units in OSD."
+dst "Show units in OSD."
+
+src "Position OSD along the X axis.\nVariables:\n  sw - screen width in pixels\n  sh - screen height in pixels\n  example:\n     (sw / 2) + 100\n\nHints:\n- <SHIFT>+<ALT>+<LEFT>/<RIGHT> - moves OSD along the X axis."
+dst "Position OSD along the X axis.\nVariables:\n  sw - screen width in pixels\n  sh - screen height in pixels\n  example:\n     (sw / 2) + 100\n\nHints:\n- <SHIFT>+<ALT>+<LEFT>/<RIGHT> - moves OSD along the X axis."
+
+src "Position OSD along the Y axis.\nVariables:\n  sw - screen width in pixels\n  sh - screen height in pixels\n  example:\n     (sw / 2) + 100\n\nHints:\n- <SHIFT>+<ALT>+<UP>/<DOWN> - moves OSD along the Y axis."
+dst "Position OSD along the Y axis.\nVariables:\n  sw - screen width in pixels\n  sh - screen height in pixels\n  example:\n     (sw / 2) + 100\n\nHints:\n- <SHIFT>+<ALT>+<UP>/<DOWN> - moves OSD along the Y axis."
+
+src "Allows to change the logging interval (ms).\n\nHints:\n- Logging only works when \"Benchmark mode\" is enabled.\n- <CTRL>+<ALT>+B - Benchmark mode.\n- CSV file will be saved in the \"Logs\" folder."
+dst "Allows to change the logging interval (ms).\n\nHints:\n- Logging only works when \"Benchmark mode\" is enabled.\n- <CTRL>+<ALT>+B - Benchmark mode.\n- CSV file will be saved in the \"Logs\" folder."
+
+src "Toggles Maneuvering Energy Retention calculation."
+dst "Toggles Maneuvering Energy Retention calculation."
+
+src "Forces minimizing WTRTI to system tray area on startup."
+dst "Forces minimizing WTRTI to system tray area on startup."
+
+src "Closing the App after closing the game."
+dst "Closing the App after closing the game."
+
+src "Automatically loading of vehicle profile, at beginning of a battle."
+dst "Automatically loading of vehicle profile, at beginning of a battle."
+
+src "Requires \"Rivatuner Statistics Server\" to be installed and launched."
+dst "Requires \"Rivatuner Statistics Server\" to be installed and launched."
+
+src "This type of OSD only works when \"Fullscreen Window\" mode is enabled.\n\nHints:\n- <ALT>+<PrtScr> - makes screenshot.\n- Screenshot will be saved in the \"Screenshots\" folder."
+dst "This type of OSD only works when \"Fullscreen Window\" mode is enabled.\n\nHints:\n- <ALT>+<PrtScr> - makes screenshot.\n- Screenshot will be saved in the \"Screenshots\" folder."
+
+src "Allows changing font and size of font."
+dst "Allows changing font and size of font."
+
+src "Automatically hides unavailable indicators in OSD."
+dst "Automatically hides unavailable indicators in OSD."
+
+src "Borderless - requires Compositor to be enabled."
+dst "Borderless - requires Compositor to be enabled."
+
+src "Allows selecting language for user interface."
+dst "Allows selecting language for user interface."
+
+src "IP address."
+dst "IP address."
+
+src "Port number."
+dst "Port number."
+
+src "Additional indicators for \"Test flight\".\n\nSee README.txt file for more information"
+dst "Additional indicators for \"Test flight\".\n\nSee README.txt file for more information"
+
+src "VR capabilities.\n\nSee README.txt file for more information"
+dst "VR capabilities.\n\nSee README.txt file for more information"
+
+
+[Font Settings Window]
+src "Font"
+dst "Font"
+
+src "Style"
+dst "Style"
+
+src "VSpace"
+dst "VSpace"
+
+src "Size"
+dst "Size"
+
+src "Outline"
+dst "Outline"
+
+src "Sample"
+dst "Sample"
+
+src "OK"
+dst "OK"
+
+src "Cancel"
+dst "Cancel"
+
+
+[Font Settings Window Hints]
+src "Allows changing font."
+dst "Allows changing font."
+
+src "Allows changing font style."
+dst "Allows changing font style."
+
+src "Allows changing font size."
+dst "Allows changing font size."
+
+
+[Group Settings Window]
+src "Add"
+dst "Add"
+
+src "Delete"
+dst "Delete"
+
+src "Set"
+dst "Set"
+
+src "Groups"
+dst "Groups"
+
+src "Name:"
+dst "Name:"
+
+
+[Group Settings Window Hints]
+src "Add new group"
+dst "Add new group"
+
+src "Delete the group"
+dst "Delete the group"
+
+src "The selected group will be deleted. Are you sure?"
+dst "The selected group will be deleted. Are you sure?"
+
+src "Set a name"
+dst "Set a name"
+
+src "Group name"
+dst "Group name"
+
+
+[Default Profile Settings Window]
+src "Prop"
+dst "Prop"
+
+src "Jet"
+dst "Jet"
+
+src "Fighter"
+dst "Fighter"
+
+src "Strike"
+dst "Strike"
+
+src "Bomber"
+dst "Bomber"
+
+src "Helicopter"
+dst "Helicopter"
+
+src "By Aircraft type"
+dst "By Aircraft type"
+
+src "By Propulsion"
+dst "By Propulsion"
+
+src "OK"
+dst "OK"
+
+src "Cancel"
+dst "Cancel"
+
+
+[Hotkey Settings Window]
+src "Toggle"
+dst "Toggle"
+
+src "Hold"
+dst "Hold"
+
+src "General"
+dst "General"
+
+src "Play Sounds"
+dst "Play Sounds"
+
+src "OSD"
+dst "OSD"
+
+src "Show"
+dst "Show"
+
+src "Hide"
+dst "Hide"
+
+src "Benchmark mode"
+dst "Benchmark mode"
+
+src "Logging"
+dst "Logging"
+
+src "Vehicle Information"
+dst "Vehicle Information"
+
+src "Show in OSD"
+dst "Show in OSD"
+
+src "Loading profiles"
+dst "Loading profiles"
+
+src "OK"
+dst "OK"
+
+src "Cancel"
+dst "Cancel"
+
+
+[Hotkey Settings Window Hints]
+src "Press Delete - to disable hotkey."
+dst "Press Delete - to disable hotkey."
+
+src "Allows you to assign a key to toggle logging process.\n\nHints:\n- Logging is activated only in Benchmark mode.\n- <CTRL>+<ALT>+B - activates Benchmark mode."
+dst "Allows you to assign a key to toggle logging process.\n\nHints:\n- Logging is activated only in Benchmark mode.\n- <CTRL>+<ALT>+B - activates Benchmark mode."
+
+
+[Status Bar Settings Window]
+src "Position"
+dst "Position"
+
+src "Color"
+dst "Color"
+
+src "Opacity"
+dst "Opacity"
+
+src "Scale"
+dst "Scale"
+
+src "Show"
+dst "Show"
+
+src "- Vehicle name"
+dst "- Vehicle name"
+
+src "- Profile name"
+dst "- Profile name"
+
+src "- Update time(ms)"
+dst "- Update time(ms)"
+
+src "- System time"
+dst "- System time"
+
+src "Preview:"
+dst "Preview:"
+
+src "OK"
+dst "OK"
+
+src "Cancel"
+dst "Cancel"
+
+
+[Status Bar Settings Window Hints]
+src "Changes transparency of the status bar font"
+dst "Changes transparency of the status bar font"
+
+
+[Indicator Settings Window]
+src "Show in OSD"
+dst "Show in OSD"
+
+src "General"
+dst "General"
+
+src "Group"
+dst "Group"
+
+src "Color"
+dst "Color"
+
+src "Logging"
+dst "Logging"
+
+src "OSD"
+dst "OSD"
+
+src "Override Name"
+dst "Override Name"
+
+src "Override Units"
+dst "Override Units"
+
+src "Hide if unavailable"
+dst "Hide if unavailable"
+
+src "Hide if value"
+dst "Hide if value"
+
+src "Inverse"
+dst "Inverse"
+
+src "Range"
+dst "Range"
+
+src "Value Multiplier"
+dst "Value Multiplier"
+
+src "Precision"
+dst "Precision"
+
+src "Multi-value style"
+dst "Multi-value style"
+
+src "Percentage condition"
+dst "Percentage condition"
+
+src "Alert"
+dst "Alert"
+
+src "Delay"
+dst "Delay"
+
+src "Expr"
+dst "Expr"
+
+src "Add"
+dst "Add"
+
+src "Delete"
+dst "Delete"
+
+src "Settings"
+dst "Settings"
+
+src "Name"
+dst "Name"
+
+src "Value"
+dst "Value"
+
+src "Units"
+dst "Units"
+
+src "Advanced"
+dst "Advanced"
+
+src "In \"State\" list"
+dst "In \"State\" list"
+
+src "OK"
+dst "OK"
+
+src "Cancel"
+dst "Cancel"
+
+src "Apply"
+dst "Apply"
+
+
+[Indicator Settings Window Hints]
+src "Shows in OSD currently selected indicator."
+dst "Shows in OSD currently selected indicator."
+
+src "Allows changing indicators group."
+dst "Allows changing indicators group."
+
+src "Logging current indicator.\n\nHints:\n - Requires \"Benchmark mode\" to be enabled.\n - <CTRL>+<ALT>+B - Benchmark mode."
+dst "Logging current indicator.\n\nHints:\n - Requires \"Benchmark mode\" to be enabled.\n - <CTRL>+<ALT>+B - Benchmark mode."
+
+src "Allows override OSD name."
+dst "Allows override OSD name."
+
+src "Overrides OSD name."
+dst "Overrides OSD name."
+
+src "Overrides OSD units."
+dst "Overrides OSD units."
+
+src "Hides the indicator if a value matches condition."
+dst "Hides the indicator if a value matches condition."
+
+src "Hides the indicator if a value -X or X."
+dst "Hides the indicator if a value -X or X."
+
+src "\n= -- (x = a) or (x = b)\n< -- a > x < b\n> -- a < x > b\n\na -- first condition value.\nb -- second condition value.\nx -- indicator value.\n"
+dst "\n= -- (x = a) or (x = b)\n< -- a > x < b\n> -- a < x > b\n\na -- first condition value.\nb -- second condition value.\nx -- indicator value.\n"
+
+src "Factor that will be multiplied by the indicator value.\nThis will allow conversion of the indicator value into other units(metres->kilometres)."
+dst "Factor that will be multiplied by the indicator value.\nThis will allow conversion of the indicator value into other units(metres->kilometres)."
+
+src "Allows changing how is Multi-value shows in OSD.\n\n - All - shows All values of indicator.\n - All-Conditionally - shows all values if one of the values is different to others, otherwise shows maximum.\n - First - shows only First value.\n - Average - shows Average of all values.\n - Sum - shows Sum of all values.\n - Sum-Conditionally - shows all values if one of the values is different to others, otherwise shows Sum of all values.\n - Lowest - shows the Lowest value of all.\n - Highest - shows the Highest value of all."
+dst "Allows changing how is Multi-value shows in OSD.\n\n - All - shows All values of indicator.\n - All-Conditionally - shows all values if one of the values is different to others, otherwise shows maximum.\n - First - shows only First value.\n - Average - shows Average of all values.\n - Sum - shows Sum of all values.\n - Sum-Conditionally - shows all values if one of the values is different to others, otherwise shows Sum of all values.\n - Lowest - shows the Lowest value of all.\n - Highest - shows the Highest value of all."
+
+src "Allows you to set a delay for triggering an alert.\nN*(Update interval)"
+dst "Allows you to set a delay for triggering an alert.\nN*(Update interval)"
+
+src "The selected Alert will be deleted. Are you sure?"
+dst "The selected Alert will be deleted. Are you sure?"
+
+src "Indicator Name color."
+dst "Indicator Name color."
+
+src "Indicator Value color."
+dst "Indicator Value color."
+
+src "Indicator Units color."
+dst "Indicator Units color."
+
+src "This option allows to place the indicator's Value to the \"State\" list (<F2> at the main window)."
+dst "This option allows to place the indicator's Value to the \"State\" list (<F2> at the main window)."
+
+
+[Indicator Multi-Value Style]
+src "All"
+dst "All"
+
+src "All-Cond"
+dst "All-Cond"
+
+src "First"
+dst "First"
+
+src "Average"
+dst "Average"
+
+src "Sum"
+dst "Sum"
+
+src "Sum-Cond"
+dst "Sum-Cond"
+
+src "Lowest"
+dst "Lowest"
+
+src "Highest"
+dst "Highest"
+
+
+[Indicator Alert Settings Window]
+src "Name"
+dst "Name"
+
+src "Value"
+dst "Value"
+
+src "Units"
+dst "Units"
+
+src "Color"
+dst "Color"
+
+src "Range"
+dst "Range"
+
+src "If Value"
+dst "If Value"
+
+src "Indicator"
+dst "Indicator"
+
+src "Add"
+dst "Add"
+
+src "Delete"
+dst "Delete"
+
+src "Edit"
+dst "Edit"
+
+src "And depends on"
+dst "And depends on"
+
+src "Blink interval"
+dst "Blink interval"
+
+src "Play Sound"
+dst "Play Sound"
+
+src "Repeat"
+dst "Repeat"
+
+src "OK"
+dst "OK"
+
+src "Cancel"
+dst "Cancel"
+
+
+[Indicator Alert Settings Window Hints]
+src "\n= -- (x = a) or (x = b)\n< -- a > x < b\n> -- a < x > b\n\na -- first condition value.\nb -- second condition value.\nx -- indicator value.\n"
+dst "\n= -- (x = a) or (x = b)\n< -- a > x < b\n> -- a < x > b\n\na -- first condition value.\nb -- second condition value.\nx -- indicator value.\n"
+
+src "Allows you to set a blink interval.\nN*(Update interval).\nIf \"Update interval\" is less than 100ms, the blink interval will be N*100ms."
+dst "Allows you to set a blink interval.\nN*(Update interval).\nIf \"Update interval\" is less than 100ms, the blink interval will be N*100ms."
+
+src "You can put your sound files in the \"Sounds\" folder, the app will automatically detect them when the app starts."
+dst "You can put your sound files in the \"Sounds\" folder, the app will automatically detect them when the app starts."
+
+src "Repeat interval.\nN*(Update interval).\n0 - seamless loop.\nIf \"Update interval\" is less than 100ms, the repeat interval will be N*100ms."
+dst "Repeat interval.\nN*(Update interval).\n0 - seamless loop.\nIf \"Update interval\" is less than 100ms, the repeat interval will be N*100ms."
+
+
+[Indicator Alert Dependence Window]
+src "Range"
+dst "Range"
+
+src "OK"
+dst "OK"
+
+src "Cancel"
+dst "Cancel"
+
+
+[Indicator Alert Dependence Window Hints]
+src "\n= -- (x = a) or (x = b)\n< -- a > x < b\n> -- a < x > b\n\na -- first condition value.\nb -- second condition value.\nx -- indicator value.\n"
+dst "\n= -- (x = a) or (x = b)\n< -- a > x < b\n> -- a < x > b\n\na -- first condition value.\nb -- second condition value.\nx -- indicator value.\n"
+
+
+[Game Chat Window]
+src "Logging"
+dst "Logging"
+
+src "Sender"
+dst "Sender"
+
+src "Message"
+dst "Message"
+
+src "Save"
+dst "Save"
+
+src "Settings"
+dst "Settings"
+
+
+[Game Chat Window Hints]
+src "Hints:\n- <Double-click> - opens in web browser Translate page, with translated message.\n- <RMB> - saves message in clipboard."
+dst "Hints:\n- <Double-click> - opens in web browser Translate page, with translated message.\n- <RMB> - saves message in clipboard."
+
+
+[Game Chat Settings Window]
+src "General"
+dst "General"
+
+src "Open at startup"
+dst "Open at startup"
+
+src "Logging"
+dst "Logging"
+
+src "Window"
+dst "Window"
+
+src "Topmost"
+dst "Topmost"
+
+src "Ignore cursor"
+dst "Ignore cursor"
+
+src "Borderless"
+dst "Borderless"
+
+src "Opacity"
+dst "Opacity"
+
+src "Translate"
+dst "Translate"
+
+src "Browser"
+dst "Browser"
+
+src "Service"
+dst "Service"
+
+src "Language"
+dst "Language"
+
+src "OK"
+dst "OK"
+
+src "Cancel"
+dst "Cancel"
+
+
+[Game Chat Settings Window Hints]
+src "Open window when application starts."
+dst "Open window when application starts."
+
+src "Makes the window topmost when you in a battle."
+dst "Makes the window topmost when you in a battle."
+
+src "Ignores cursor when the window is topmost"
+dst "Ignores cursor when the window is topmost"
+
+src "F11 - toggles Borderless mode.\nALT-(LMB on menu bar) - moves the window."
+dst "F11 - toggles Borderless mode.\nALT-(LMB on menu bar) - moves the window."
+
+src "Changes transparency of the window"
+dst "Changes transparency of the window"
+
+
+[Game Chat Translate Service]
+src "Google Translate"
+dst "Google Translate"
+
+src "Yandex.Translate"
+dst "Yandex.Translate"
+
+src "Bing Translator"
+dst "Bing Translator"
+
+
+[Game Chat Translate Language]
+src "English"
+dst "English"
+
+src "French"
+dst "French"
+
+src "German"
+dst "German"
+
+src "Japanese"
+dst "Japanese"
+
+src "Korean"
+dst "Korean"
+
+src "Polish"
+dst "Polish"
+
+src "Russian"
+dst "Russian"
+
+src "Spanish"
+dst "Spanish"
+
+
+[Battle Log Window]
+src "Save"
+dst "Save"
+
+src "Settings"
+dst "Settings"
+
+
+[Battle Log Window Hints]
+src "Hints:\n- <RMB> - saves message in clipboard."
+dst "Hints:\n- <RMB> - saves message in clipboard."
+
+
+[Battle Log Settings Window]
+src "General"
+dst "General"
+
+src "Open at startup"
+dst "Open at startup"
+
+src "Logging"
+dst "Logging"
+
+src "Window"
+dst "Window"
+
+src "Topmost"
+dst "Topmost"
+
+src "Ignore cursor"
+dst "Ignore cursor"
+
+src "Borderless"
+dst "Borderless"
+
+src "Opacity"
+dst "Opacity"
+
+src "OK"
+dst "OK"
+
+src "Cancel"
+dst "Cancel"
+
+
+[Battle Log Settings Window Hints]
+src "Open window when application starts."
+dst "Open window when application starts."
+
+src "Makes the window topmost when you in a battle."
+dst "Makes the window topmost when you in a battle."
+
+src "Ignores cursor when the window is topmost"
+dst "Ignores cursor when the window is topmost"
+
+src "F11 - toggles Borderless mode.\nALT-(LMB on menu bar) - moves the window."
+dst "F11 - toggles Borderless mode.\nALT-(LMB on menu bar) - moves the window."
+
+src "Changes transparency of the window"
+dst "Changes transparency of the window"
+
+
+[Vehicle Information Window]
+src "Reset"
+dst "Reset"
+
+src "General"
+dst "General"
+
+src "Disclaimer"
+dst "Disclaimer"
+
+src "Dimensions"
+dst "Dimensions"
+
+src "Length"
+dst "Length"
+
+src "Wing span"
+dst "Wing span"
+
+src "Wing area"
+dst "Wing area"
+
+src "Vehicle Information"
+dst "Vehicle Information"
+
+src "Name"
+dst "Name"
+
+src "Vehicle"
+dst "Vehicle"
+
+src "Mass"
+dst "Mass"
+
+src "Empty mass"
+dst "Empty mass"
+
+src "Max Fuel mass"
+dst "Max Fuel mass"
+
+src "Critical overload"
+dst "Critical overload"
+
+src "At mass"
+dst "At mass"
+
+src "Min Sweep"
+dst "Min Sweep"
+
+src "Max Sweep"
+dst "Max Sweep"
+
+src "Positive"
+dst "Positive"
+
+src "Negative"
+dst "Negative"
+
+src "Critical speed"
+dst "Critical speed"
+
+src "Structural"
+dst "Structural"
+
+src "Mach"
+dst "Mach"
+
+src "Gear"
+dst "Gear"
+
+src "Flaps"
+dst "Flaps"
+
+src "Combat"
+dst "Combat"
+
+src "Takeoff"
+dst "Takeoff"
+
+src "Landing"
+dst "Landing"
+
+src "Critical Angle of Attack"
+dst "Critical Angle of Attack"
+
+src "No Flaps"
+dst "No Flaps"
+
+src "Full Flaps"
+dst "Full Flaps"
+
+src "Settings"
+dst "Settings"
+
+src "Database"
+dst "Database"
+
+src "Download Update"
+dst "Download Update"
+
+src "Use the generated"
+dst "Use the generated"
+
+src "Generate"
+dst "Generate"
+
+src "Select the \"flightmodels\" folder"
+dst "Select the \"flightmodels\" folder"
+
+src "Database has been successfully Created and Loaded!"
+dst "Database has been successfully Created and Loaded!"
+
+src "Database is already up to date!"
+dst "Database is already up to date!"
+
+src "Cannot connect to server!"
+dst "Cannot connect to server!"
+
+src "Database has been successfully Updated!"
+dst "Database has been successfully Updated!"
+
+src "Checking for updates"
+dst "Checking for updates"
+
+src "ERROR:"
+dst "ERROR:"
+
+src "Wrong path"
+dst "Wrong path"
+
+src "Starting"
+dst "Starting"
+
+src "Building"
+dst "Building"
+
+src "Downloading"
+dst "Downloading"
+
+src "Loading"
+dst "Loading"
+
+src "FM names"
+dst "FM names"
+
+src "FM data"
+dst "FM data"
+
+src "N/A"
+dst "N/A"
+
+src "Built-in"
+dst "Built-in"
+
+
+[Vehicle Information Window Hints]
+src "Resets to the currently used vehicle."
+dst "Resets to the currently used vehicle."
+
+src "This data depends on the pre-generated offline database, so it will need to be updated manually sometime.\n\nPlease use this data with caution."
+dst "This data depends on the pre-generated offline database, so it will need to be updated manually sometime.\n\nPlease use this data with caution."
+
+
+[Vehicle Information Settings Window]
+src "General"
+dst "General"
+
+src "Database"
+dst "Database"
+
+src "Update checking"
+dst "Update checking"
+
+src "Units"
+dst "Units"
+
+src "Speed"
+dst "Speed"
+
+src "Mass"
+dst "Mass"
+
+src "Length"
+dst "Length"
+
+src "OSD"
+dst "OSD"
+
+src "Position"
+dst "Position"
+
+src "Show in OSD"
+dst "Show in OSD"
+
+src "OK"
+dst "OK"
+
+src "Cancel"
+dst "Cancel"
+
+
+[Vehicle Information Settings Window Hints]
+src "Allows you to select the database update checking period."
+dst "Allows you to select the database update checking period."
+
+
+[VR Settings Window]
+src "General"
+dst "General"
+
+src "VR settings in a Profile"
+dst "VR settings in a Profile"
+
+src "Tracked device"
+dst "Tracked device"
+
+src "None"
+dst "None"
+
+src "HMD"
+dst "HMD"
+
+src "Left"
+dst "Left"
+
+src "Right"
+dst "Right"
+
+src "Overlay"
+dst "Overlay"
+
+src "Position"
+dst "Position"
+
+src "Rotation"
+dst "Rotation"
+
+src "Size"
+dst "Size"
+
+src "Opacity"
+dst "Opacity"
+
+src "Curvature"
+dst "Curvature"
+
+src "OK"
+dst "OK"
+
+src "Cancel"
+dst "Cancel"
+
+src "Apply"
+dst "Apply"
+
+
+[VR Settings Window Hints]
+src "Saves VR settings in a Profile and loads them from a Profile."
+dst "Saves VR settings in a Profile and loads them from a Profile."
+
+src "Overlay freely placed in space."
+dst "Overlay freely placed in space."
+
+src "Overlay attached to HMD.\n\nHint:\n<CTRL>-<ALT>-V - toggles \"HMD tracking\" mode.\n<CTRL>-<ALT>-S - saves overlay's position."
+dst "Overlay attached to HMD.\n\nHint:\n<CTRL>-<ALT>-V - toggles \"HMD tracking\" mode.\n<CTRL>-<ALT>-S - saves overlay's position."
+
+src "Overlay attached to left controller.\n\nHint:\n<CTRL>-<ALT>-Z - toggles \"Left controller tracking\" mode.\n<CTRL>-<ALT>-S - saves overlay's position."
+dst "Overlay attached to left controller.\n\nHint:\n<CTRL>-<ALT>-Z - toggles \"Left controller tracking\" mode.\n<CTRL>-<ALT>-S - saves overlay's position."
+
+src "Overlay attached to right controller.\n\nHint:\n<CTRL>-<ALT>-X - toggles \"Right controller tracking\" mode.\n<CTRL>-<ALT>-S - saves overlay's position."
+dst "Overlay attached to right controller.\n\nHint:\n<CTRL>-<ALT>-X - toggles \"Right controller tracking\" mode.\n<CTRL>-<ALT>-S - saves overlay's position."
+
+src "X axis\n\nHint:\n<SHIFT>-<ALT>-<LEFT/RIGHT> - moves overlay on X axis."
+dst "X axis\n\nHint:\n<SHIFT>-<ALT>-<LEFT/RIGHT> - moves overlay on X axis."
+
+src "Y axis\n\nHint:\n<SHIFT>-<ALT>-<UP/DOWN> - moves overlay on Y axis."
+dst "Y axis\n\nHint:\n<SHIFT>-<ALT>-<UP/DOWN> - moves overlay on Y axis."
+
+src "Z axis\n\nHint:\n<SHIFT>-<ALT>-<PAGE UP/PAGE DOWN> - moves overlay on Z axis."
+dst "Z axis\n\nHint:\n<SHIFT>-<ALT>-<PAGE UP/PAGE DOWN> - moves overlay on Z axis."
+
+src "X axis, degrees"
+dst "X axis, degrees"
+
+src "Y axis, degrees"
+dst "Y axis, degrees"
+
+src "Z axis, degrees"
+dst "Z axis, degrees"
+
+src "Overlay's size in meteres.\n\nHint:\n<SHIFT>-<ALT>-Q - decrease overlay's size.\n<SHIFT>-<ALT>-E - increase overlay's size."
+dst "Overlay's size in meteres.\n\nHint:\n<SHIFT>-<ALT>-Q - decrease overlay's size.\n<SHIFT>-<ALT>-E - increase overlay's size."
+
+
