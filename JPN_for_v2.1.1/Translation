@@ -678,10 +678,10 @@ src "Settings"
 dst "Settings"
 
 src "Game chat"
-dst "Game chat"
+dst "ゲームチャット"
 
 src "Battle log"
-dst "Battle log"
+dst "戦闘ログ"
 
 src "Mission"
 dst "Mission"
@@ -975,7 +975,7 @@ src "Hotkeys"
 dst "ホットキー"
 
 src "Value alignment"
-dst "Value alignment"
+dst "数値の桁数"
 
 src "Indicators interval"
 dst "Indicators interval"
@@ -1071,10 +1071,10 @@ src "VR mode"
 dst "VR modeを有効にする"
 
 src "\"Flaps flutter\" always on"
-dst "\"Flaps flutter\" always on"
+dst "\"Flaps flutter\"の項目を常に表示する"
 
 src "\"Gear flutter\" always on"
-dst "\"Gear flutter\" always on"
+dst "\"Gear flutter\"の項目を常に表示する"
 
 src "Detecting broken Flaps"
 dst "フラップの破損を検出する"
@@ -1089,7 +1089,7 @@ src "Compositor"
 dst "Compositor"
 
 src "Handle data in every game mode"
-dst "Handle data in every game mode"
+dst "どのゲームモードでも飛行データの取得を試みる"
 
 src "Type"
 dst "Type"
@@ -1865,7 +1865,7 @@ src "Dimensions"
 dst "寸法"
 
 src "Length"
-dst "Length"
+dst "全長"
 
 src "Wing span"
 dst "翼幅"
@@ -1904,10 +1904,10 @@ src "Max Sweep"
 dst "Max Sweep"
 
 src "Positive"
-dst "Positive"
+dst "プラスG"
 
 src "Negative"
-dst "Negative"
+dst "マイナスG"
 
 src "Critical speed"
 dst "上限速度"
@@ -1952,7 +1952,7 @@ src "Download Update"
 dst "更新をダウンロード"
 
 src "Use the generated"
-dst "Use the generated"
+dst "生成したデータベースを利用する"
 
 src "Generate"
 dst "展開した内部データから生成"
@@ -2008,7 +2008,7 @@ dst "Built-in"
 
 [Vehicle Information Window Hints]
 src "Resets to the currently used vehicle."
-dst "Resets to the currently used vehicle."
+dst "現在の搭乗機体にリセット"
 
 src "This data depends on the pre-generated offline database, so it will need to be updated manually sometime.\n\nPlease use this data with caution."
 dst "This data depends on the pre-generated offline database, so it will need to be updated manually sometime.\n\nPlease use this data with caution."
@@ -2040,7 +2040,7 @@ src "OSD"
 dst "OSD"
 
 src "Position"
-dst "Position"
+dst "表示位置"
 
 src "Show in OSD"
 dst "Show in OSD"
@@ -2054,7 +2054,7 @@ dst "キャンセル"
 
 [Vehicle Information Settings Window Hints]
 src "Allows you to select the database update checking period."
-dst "Allows you to select the database update checking period."
+dst "データベースの更新チェックの頻度を選択してください"
 
 
 [VR Settings Window]
