@@ -5,7 +5,6 @@ Japanese Localization Files for MeSoftHorny ‘s WTRTI
 Japanese Localization Files for MeSoftHorny ‘s WTRTI
 
 ## Usage
-Usage
 1. Clone this repository.
 2. Create a `Japanese` folder in the `WTRTI\Localization` folder.
 3. Copy `Description` and `Translation` files into the `Japanese` folder.
