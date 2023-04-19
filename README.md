@@ -15,6 +15,7 @@ Japanese Localization Files for MeSoftHorny ‘s WTRTI
     - Translating v2.1.1. Not all items have been translated yet.
     - In particular, the translation of "hints" has not progressed.
     - "Indicators" and "OSD Indicators" are not translated intentionally. Please do not touch it.
+    - There are currently no plans to translate the text about VR settings. I don't have VR. :P
 
 ## Author
 オタク、水を飲め。(JP) - Main contributor
