@@ -867,7 +867,7 @@ dst "保存"
 
 [State Window Hints]
 src "- <RMB> - saves parameter in clipboard."
-dst "- <RMB> - 数値をクリップボードにコピーする"
+dst "- <RMB> - 数値をクリップボードにコピーします"
 
 
 [User Indicator Editor Window]
@@ -1737,19 +1737,19 @@ dst "キャンセル"
 
 [Game Chat Settings Window Hints]
 src "Open window when application starts."
-dst "WTRTIを起動した時にこのウィンドウも開く"
+dst "WTRTIを起動した時にこのウィンドウも開きます"
 
 src "Makes the window topmost when you in a battle."
-dst "戦闘中にこのウィンドウを最前面(手前)に表示する"
+dst "戦闘中にこのウィンドウを最前面(手前)に表示します"
 
 src "Ignores cursor when the window is topmost"
-dst "最前面に表示しているときに、マウスカーソルがウィンドウを無視する"
+dst "最前面に表示しているときに、マウスカーソルがウィンドウを無視します"
 
 src "F11 - toggles Borderless mode.\nALT-(LMB on menu bar) - moves the window."
 dst "F11 - toggles Borderless mode.\nALT-(LMB on menu bar) - moves the window."
 
 src "Changes transparency of the window"
-dst "ウィンドウの透明度を変更する"
+dst "ウィンドウの透明度を変更します"
 
 
 [Game Chat Translate Service]
@@ -1836,19 +1836,19 @@ dst "キャンセル"
 
 [Battle Log Settings Window Hints]
 src "Open window when application starts."
-dst "WTRTIを起動した時にこのウィンドウも開く"
+dst "WTRTIを起動した時にこのウィンドウも開きます"
 
 src "Makes the window topmost when you in a battle."
-dst "戦闘中にこのウィンドウを最前面(手前)に表示する"
+dst "戦闘中にこのウィンドウを最前面(手前)に表示します"
 
 src "Ignores cursor when the window is topmost"
-dst "最前面に表示しているときに、マウスカーソルがウィンドウを無視する"
+dst "最前面に表示しているときに、マウスカーソルがウィンドウを無視します"
 
 src "F11 - toggles Borderless mode.\nALT-(LMB on menu bar) - moves the window."
 dst "F11 - toggles Borderless mode.\nALT-(LMB on menu bar) - moves the window."
 
 src "Changes transparency of the window"
-dst "ウィンドウの透明度を変更する"
+dst "ウィンドウの透明度を変更します"
 
 
 [Vehicle Information Window]
