@@ -752,7 +752,7 @@ src "Displays advanced VR Settings"
 dst "Displays advanced VR Settings"
 
 src "Choose game path and a shortcut will be created."
-dst "ゲームの保存場所を選択してください"
+dst "ゲームがインストールされている場所を選択してください"
 
 src "Shortcut successfully created!"
 dst "ショートカットを作成しました"
@@ -767,7 +767,7 @@ src "The current profile has been changed. Do you want save it?"
 dst "現在のプロファイルには変更された項目があります。保存しますか？"
 
 src "Resets to default settings."
-dst "設定をリセットする"
+dst "設定をリセットします"
 
 src "All current settings will be deleted. Are you sure?"
 dst "現在の設定が全て削除されます。よろしいですか？"
@@ -867,7 +867,7 @@ dst "保存"
 
 [State Window Hints]
 src "- <RMB> - saves parameter in clipboard."
-dst "- <RMB> - 数値をクリップボードにコピーします"
+dst "- <RMB> - 数値をクリップボードにコピーする"
 
 
 [User Indicator Editor Window]
@@ -1187,7 +1187,7 @@ src "Closing the App after closing the game."
 dst "ゲームを終了した後にWTRTIも終了します"
 
 src "Automatically loading of vehicle profile, at beginning of a battle."
-dst "戦闘が始まった時に自動で各機体用のプロファイルを読み込みます"
+dst "戦闘が始まった時に自動で各機体用のプロファイルを読み込む"
 
 src "Requires \"Rivatuner Statistics Server\" to be installed and launched."
 dst "Requires \"Rivatuner Statistics Server\" to be installed and launched."
@@ -1217,7 +1217,7 @@ src "Additional indicators for \"Test flight\".\n\nSee README.txt file for more 
 dst "\"テストフライト\"でのみ確認出来る追加の情報を表示します。\n\nREADME.txtに詳しい情報があります。"
 
 src "VR capabilities.\n\nSee README.txt file for more information"
-dst "VR用の機能です。\n\nREADME.txtに詳しい情報があります。"
+dst "VR用の機能。\n\nREADME.txtに詳しい情報があります。"
 
 
 [Font Settings Window]
@@ -1946,7 +1946,7 @@ src "Settings"
 dst "設定"
 
 src "Database"
-dst "Database"
+dst "データベース"
 
 src "Download Update"
 dst "更新をダウンロード"
@@ -1961,16 +1961,16 @@ src "Select the \"flightmodels\" folder"
 dst "展開した\"flightmodels\"フォルダーを指定してください"
 
 src "Database has been successfully Created and Loaded!"
-dst "Databaseの生成と読み込みに成功しました"
+dst "データベースの生成と読み込みに成功しました"
 
 src "Database is already up to date!"
-dst "Databaseは既に最新の状態です"
+dst "データベースは既に最新の状態です"
 
 src "Cannot connect to server!"
 dst "サーバーに接続できません"
 
 src "Database has been successfully Updated!"
-dst "Databaseの更新が完了しました"
+dst "データベースの更新が完了しました"
 
 src "Checking for updates"
 dst "更新を確認中"
@@ -2019,7 +2019,7 @@ src "General"
 dst "全般"
 
 src "Database"
-dst "Database"
+dst "データベース"
 
 src "Update checking"
 dst "更新を確認する頻度"
