@@ -761,10 +761,10 @@ src "Couldn't find the game launcher!"
 dst "ゲームのランチャーが見つかりません"
 
 src "Starts saving process.\n- <LMB> - opens 'Save as' window.\n- ALT-<LMB> - fast save."
-dst "Starts saving process.\n- <LMB> - opens 'Save as' window.\n- ALT-<LMB> - fast save."
+dst "プロファイルを保存します。\n- <LMB> - '名前を付けて保存'ウィンドウを開きます。\n- ALT-<LMB> - 同じ名前で保存します。"
 
 src "The current profile has been changed. Do you want save it?"
-dst "The current profile has been changed. Do you want save it?"
+dst "現在のプロファイルには変更された項目があります。保存しますか？"
 
 src "Resets to default settings."
 dst "設定をリセットする"
