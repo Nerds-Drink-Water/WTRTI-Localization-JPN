@@ -675,7 +675,7 @@ src "Value"
 dst "Value"
 
 src "Settings"
-dst "Settings"
+dst "設定"
 
 src "Game chat"
 dst "ゲームチャット"
@@ -696,10 +696,10 @@ src "Create shortcut"
 dst "ゲームとWTRTIを同時に起動するショートカットを作成"
 
 src "Save"
-dst "Save"
+dst "保存"
 
 src "Reset"
-dst "Reset"
+dst "リセット"
 
 src "N/A"
 dst "N/A"
@@ -831,22 +831,22 @@ src "Fuel"
 dst "Fuel"
 
 src "User made"
-dst "User made"
+dst "ユーザー作成項目"
 
 src "Filter"
-dst "Filter"
+dst "フィルターして表示"
 
 src "New indicator"
 dst "New indicator"
 
 src "Add"
-dst "Add"
+dst "追加"
 
 src "Delete"
-dst "Delete"
+dst "削除"
 
 src "Edit"
-dst "Edit"
+dst "編集"
 
 
 [Add Indicator Window Hints]
@@ -1181,13 +1181,13 @@ src "Toggles Maneuvering Energy Retention calculation."
 dst "Toggles Maneuvering Energy Retention calculation."
 
 src "Forces minimizing WTRTI to system tray area on startup."
-dst "Forces minimizing WTRTI to system tray area on startup."
+dst "WTRTIの起動時に最小化してシステムトレイに格納します"
 
 src "Closing the App after closing the game."
-dst "Closing the App after closing the game."
+dst "ゲームを終了した後にWTRTIも終了します"
 
 src "Automatically loading of vehicle profile, at beginning of a battle."
-dst "Automatically loading of vehicle profile, at beginning of a battle."
+dst "戦闘が始まった時に自動で各機体用のプロファイルを読み込みます"
 
 src "Requires \"Rivatuner Statistics Server\" to be installed and launched."
 dst "Requires \"Rivatuner Statistics Server\" to be installed and launched."
@@ -1196,10 +1196,10 @@ src "This type of OSD only works when \"Fullscreen Window\" mode is enabled.\n\n
 dst "This type of OSD only works when \"Fullscreen Window\" mode is enabled.\n\nHints:\n- <ALT>+<PrtScr> - makes screenshot.\n- Screenshot will be saved in the \"Screenshots\" folder."
 
 src "Allows changing font and size of font."
-dst "Allows changing font and size of font."
+dst "フォントとサイズを変更します"
 
 src "Automatically hides unavailable indicators in OSD."
-dst "Automatically hides unavailable indicators in OSD."
+dst "利用出来ない項目を自動的にOSDから非表示にします"
 
 src "Borderless - requires Compositor to be enabled."
 dst "Borderless - requires Compositor to be enabled."
@@ -1259,13 +1259,13 @@ dst "Allows changing font size."
 
 [Group Settings Window]
 src "Add"
-dst "Add"
+dst "追加"
 
 src "Delete"
-dst "Delete"
+dst "削除"
 
 src "Set"
-dst "Set"
+dst "セット"
 
 src "Groups"
 dst "Groups"
@@ -1276,13 +1276,13 @@ dst "Name:"
 
 [Group Settings Window Hints]
 src "Add new group"
-dst "Add new group"
+dst "新しいグループを作成します"
 
 src "Delete the group"
-dst "Delete the group"
+dst "選択したグループを削除します"
 
 src "The selected group will be deleted. Are you sure?"
-dst "The selected group will be deleted. Are you sure?"
+dst "選択したグループが削除されます。よろしいですか？"
 
 src "Set a name"
 dst "Set a name"
@@ -1325,10 +1325,10 @@ dst "キャンセル"
 
 [Hotkey Settings Window]
 src "Toggle"
-dst "Toggle"
+dst "トグル(切り替え)"
 
 src "Hold"
-dst "Hold"
+dst "ホールド(押してる間)"
 
 src "General"
 dst "全般"
@@ -1340,22 +1340,22 @@ src "OSD"
 dst "OSD"
 
 src "Show"
-dst "Show"
+dst "表示"
 
 src "Hide"
-dst "Hide"
+dst "隠す"
 
 src "Benchmark mode"
 dst "Benchmark mode"
 
 src "Logging"
-dst "Logging"
+dst "データを取得する"
 
 src "Vehicle Information"
 dst "Vehicle Information"
 
 src "Show in OSD"
-dst "Show in OSD"
+dst "OSDに表示する"
 
 src "Loading profiles"
 dst "Loading profiles"
@@ -1383,13 +1383,13 @@ src "Color"
 dst "Color"
 
 src "Opacity"
-dst "Opacity"
+dst "透明度"
 
 src "Scale"
 dst "Scale"
 
 src "Show"
-dst "Show"
+dst "表示"
 
 src "- Vehicle name"
 dst "- Vehicle name"
@@ -1420,7 +1420,7 @@ dst "Changes transparency of the status bar font"
 
 [Indicator Settings Window]
 src "Show in OSD"
-dst "Show in OSD"
+dst "OSDに表示する"
 
 src "General"
 dst "全般"
@@ -1432,31 +1432,31 @@ src "Color"
 dst "Color"
 
 src "Logging"
-dst "Logging"
+dst "データを取得する"
 
 src "OSD"
 dst "OSD"
 
 src "Override Name"
-dst "Override Name"
+dst "名前を変更する"
 
 src "Override Units"
-dst "Override Units"
+dst "単位を変更する"
 
 src "Hide if unavailable"
-dst "Hide if unavailable"
+dst "項目が利用出来ない時は非表示にする"
 
 src "Hide if value"
-dst "Hide if value"
+dst "数値によって非表示にする"
 
 src "Inverse"
 dst "Inverse"
 
 src "Range"
-dst "Range"
+dst "数値の範囲で設定"
 
 src "Value Multiplier"
-dst "Value Multiplier"
+dst "数値に倍率を設定する"
 
 src "Precision"
 dst "Precision"
@@ -1468,22 +1468,22 @@ src "Percentage condition"
 dst "Percentage condition"
 
 src "Alert"
-dst "Alert"
+dst "警告表示の設定"
 
 src "Delay"
-dst "Delay"
+dst "警告表示に遅延を設定"
 
 src "Expr"
 dst "Expr"
 
 src "Add"
-dst "Add"
+dst "追加"
 
 src "Delete"
-dst "Delete"
+dst "削除"
 
 src "Settings"
-dst "Settings"
+dst "設定"
 
 src "Name"
 dst "Name"
@@ -1548,7 +1548,7 @@ src "Allows you to set a delay for triggering an alert.\nN*(Update interval)"
 dst "Allows you to set a delay for triggering an alert.\nN*(Update interval)"
 
 src "The selected Alert will be deleted. Are you sure?"
-dst "The selected Alert will be deleted. Are you sure?"
+dst "選択した警告表示の設定が削除されます。よろしいですか？"
 
 src "Indicator Name color."
 dst "Indicator Name color."
@@ -1612,13 +1612,13 @@ src "Indicator"
 dst "Indicator"
 
 src "Add"
-dst "Add"
+dst "追加"
 
 src "Delete"
-dst "Delete"
+dst "削除"
 
 src "Edit"
-dst "Edit"
+dst "編集"
 
 src "And depends on"
 dst "And depends on"
@@ -1671,24 +1671,24 @@ dst "\n= -- (x = a) or (x = b)\n< -- a > x < b\n> -- a < x > b\n\na -- first con
 
 [Game Chat Window]
 src "Logging"
-dst "Logging"
+dst "データを取得する"
 
 src "Sender"
-dst "Sender"
+dst "送信者"
 
 src "Message"
-dst "Message"
+dst "メッセージ内容"
 
 src "Save"
-dst "Save"
+dst "保存"
 
 src "Settings"
-dst "Settings"
+dst "設定"
 
 
 [Game Chat Window Hints]
 src "Hints:\n- <Double-click> - opens in web browser Translate page, with translated message.\n- <RMB> - saves message in clipboard."
-dst "Hints:\n- <Double-click> - opens in web browser Translate page, with translated message.\n- <RMB> - saves message in clipboard."
+dst "ヒント:\n- <ダブルクリック> - Webブラウザーで翻訳サービスを開き、メッセージを翻訳します\n- <RMB> - メッセージをクリップボードにコピーします"
 
 
 [Game Chat Settings Window]
@@ -1696,37 +1696,37 @@ src "General"
 dst "全般"
 
 src "Open at startup"
-dst "Open at startup"
+dst "WTRTI起動時に開く"
 
 src "Logging"
-dst "Logging"
+dst "データを取得する"
 
 src "Window"
-dst "Window"
+dst "ウィンドウ設定"
 
 src "Topmost"
-dst "Topmost"
+dst "最前面(手前)に表示"
 
 src "Ignore cursor"
-dst "Ignore cursor"
+dst "マウスカーソルを無視"
 
 src "Borderless"
 dst "Borderless"
 
 src "Opacity"
-dst "Opacity"
+dst "透明度"
 
 src "Translate"
-dst "Translate"
+dst "翻訳機能"
 
 src "Browser"
-dst "Browser"
+dst "Webブラウザー"
 
 src "Service"
-dst "Service"
+dst "翻訳サービス"
 
 src "Language"
-dst "Language"
+dst "言語"
 
 src "OK"
 dst "OK"
@@ -1737,19 +1737,19 @@ dst "キャンセル"
 
 [Game Chat Settings Window Hints]
 src "Open window when application starts."
-dst "Open window when application starts."
+dst "WTRTIを起動した時にこのウィンドウも開く"
 
 src "Makes the window topmost when you in a battle."
-dst "Makes the window topmost when you in a battle."
+dst "戦闘中にこのウィンドウを最前面(手前)に表示する"
 
 src "Ignores cursor when the window is topmost"
-dst "Ignores cursor when the window is topmost"
+dst "最前面に表示しているときに、マウスカーソルがウィンドウを無視する"
 
 src "F11 - toggles Borderless mode.\nALT-(LMB on menu bar) - moves the window."
 dst "F11 - toggles Borderless mode.\nALT-(LMB on menu bar) - moves the window."
 
 src "Changes transparency of the window"
-dst "Changes transparency of the window"
+dst "ウィンドウの透明度を変更する"
 
 
 [Game Chat Translate Service]
@@ -1791,15 +1791,15 @@ dst "Spanish"
 
 [Battle Log Window]
 src "Save"
-dst "Save"
+dst "保存"
 
 src "Settings"
-dst "Settings"
+dst "設定"
 
 
 [Battle Log Window Hints]
 src "Hints:\n- <RMB> - saves message in clipboard."
-dst "Hints:\n- <RMB> - saves message in clipboard."
+dst "ヒント:\n- <RMB> - メッセージをクリップボードにコピーする"
 
 
 [Battle Log Settings Window]
@@ -1807,25 +1807,25 @@ src "General"
 dst "全般"
 
 src "Open at startup"
-dst "Open at startup"
+dst "WTRTI起動時に開く"
 
 src "Logging"
-dst "Logging"
+dst "データを取得する"
 
 src "Window"
-dst "Window"
+dst "ウィンドウ設定"
 
 src "Topmost"
-dst "Topmost"
+dst "最前面(手前)に表示"
 
 src "Ignore cursor"
-dst "Ignore cursor"
+dst "マウスカーソルを無視"
 
 src "Borderless"
 dst "Borderless"
 
 src "Opacity"
-dst "Opacity"
+dst "透明度"
 
 src "OK"
 dst "OK"
@@ -1836,19 +1836,19 @@ dst "キャンセル"
 
 [Battle Log Settings Window Hints]
 src "Open window when application starts."
-dst "Open window when application starts."
+dst "WTRTIを起動した時にこのウィンドウも開く"
 
 src "Makes the window topmost when you in a battle."
-dst "Makes the window topmost when you in a battle."
+dst "戦闘中にこのウィンドウを最前面(手前)に表示する"
 
 src "Ignores cursor when the window is topmost"
-dst "Ignores cursor when the window is topmost"
+dst "最前面に表示しているときに、マウスカーソルがウィンドウを無視する"
 
 src "F11 - toggles Borderless mode.\nALT-(LMB on menu bar) - moves the window."
 dst "F11 - toggles Borderless mode.\nALT-(LMB on menu bar) - moves the window."
 
 src "Changes transparency of the window"
-dst "Changes transparency of the window"
+dst "ウィンドウの透明度を変更する"
 
 
 [Vehicle Information Window]
@@ -2011,7 +2011,7 @@ src "Resets to the currently used vehicle."
 dst "現在の搭乗機体にリセット"
 
 src "This data depends on the pre-generated offline database, so it will need to be updated manually sometime.\n\nPlease use this data with caution."
-dst "This data depends on the pre-generated offline database, so it will need to be updated manually sometime.\n\nPlease use this data with caution."
+dst "このデータは事前に生成されたオフラインデータベースです。\nユーザーが自分で最新のデータに更新する必要があります。\n\nこのデータを使う時は注意してください。"
 
 
 [Vehicle Information Settings Window]
@@ -2025,16 +2025,16 @@ src "Update checking"
 dst "更新を確認する頻度"
 
 src "Units"
-dst "Units"
+dst "単位の設定"
 
 src "Speed"
-dst "Speed"
+dst "速度"
 
 src "Mass"
-dst "Mass"
+dst "重量"
 
 src "Length"
-dst "Length"
+dst "長さ"
 
 src "OSD"
 dst "OSD"
@@ -2043,7 +2043,7 @@ src "Position"
 dst "表示位置"
 
 src "Show in OSD"
-dst "Show in OSD"
+dst "OSDに表示する"
 
 src "OK"
 dst "OK"
@@ -2092,7 +2092,7 @@ src "Size"
 dst "Size"
 
 src "Opacity"
-dst "Opacity"
+dst "透明度"
 
 src "Curvature"
 dst "Curvature"
